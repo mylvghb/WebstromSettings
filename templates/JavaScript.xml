@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="ns" value="namespace $SpaceName${&#10;    $END$&#10;}" description="Declaring statement - declaring namespace" toReformat="false" toShortenFQNames="true">
+    <variable name="SpaceName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
