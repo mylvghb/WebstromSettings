@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="cs" value="console.$PROPERTY_NAME$(&quot;$TEXT$&quot;);" description="Insert console.x() statement" toReformat="false" toShortenFQNames="true">
+    <variable name="PROPERTY_NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,14 @@
+<templateSet group="TypeScript">
+  <template name="ns" value="namespace $SpaceName${&#10;    $END$&#10;}" description="Declaring statement - declaring namespace" toReformat="false" toShortenFQNames="true">
+    <variable name="SpaceName" expression="firstWord(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ref" value="///&lt;reference path=&quot;$PATH$&quot;/&gt;&#10;$END$" description="Inserts reference path comment" toReformat="true" toShortenFQNames="false">
+    <variable name="PATH" expression="complete()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
