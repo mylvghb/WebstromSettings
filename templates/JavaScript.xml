@@ -1,8 +1,9 @@
 <templateSet group="JavaScript">
-  <template name="ns" value="namespace $SpaceName${&#10;    $END$&#10;}" description="Declaring statement - declaring namespace" toReformat="false" toShortenFQNames="true">
-    <variable name="SpaceName" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="cs" value="console.$PROPERTY_NAME$(&quot;$TEXT$&quot;);" description="Insert console.x() statement" toReformat="false" toShortenFQNames="true">
+    <variable name="PROPERTY_NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
+      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
