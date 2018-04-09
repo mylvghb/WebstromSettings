@@ -12,7 +12,7 @@
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="MOUDLES" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
     <variable name="REQUIRES" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
-    <variable name="MOUDLE_OBJECTS" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="MOUDLE_OBJECTS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_EXPORTS" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <variable name="ROOT_PROPERTIES" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
