@@ -3,4 +3,7 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Consolas" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true" restartIfHotSwapFailed="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
 </application>
