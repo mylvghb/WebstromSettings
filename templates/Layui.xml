@@ -6,7 +6,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="layuse" value="layui.use([$MODULES$], function($MODULE_OBJECTS$){&#10;    $END$&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="layuse" value="layui.use([$MODULES$], function($MODULE_OBJECTS$){&#10;    $END$&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="MODULES" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MODULE_OBJECTS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
