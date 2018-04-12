@@ -6,4 +6,20 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="umdrelay" value="/**&#10; * $DESCRIPTION$&#10; * author: $AUTHOR$&#10; * date: $DATE$&#10; */&#10;(function (root, factory) {&#10;    if (typeof define === 'function' &amp;&amp; define.amd) {&#10;        // AMD. Register as an anonymous module.&#10;        define([$MOUDLES$], factory);&#10;    } else if (typeof module === 'object' &amp;&amp; module.exports) {&#10;        // Node. Does not work with strict CommonJS, but&#10;        // only CommonJS-like environments that support module.exports,&#10;        // like Node.&#10;        module.exports = factory($REQUIRES$);&#10;    } else if(typeof layui === &quot;object&quot; &amp;&amp; layui.define === &quot;function&quot;){&#10;        // CMD. Register as an layui module.&#10;        layui.define([$MOUDLES$], function (exports) {&#10;            exports(factory($MOUDLE_OBJECTS$));&#10;        });&#10;    }else {&#10;        // Browser globals (root is window)&#10;        root.$RETURN_EXPORTS$ = factory($ROOT_PROPERTIES$);&#10;  }&#10;}(typeof self !== 'undefined' ? self : this, function ($PARAMS$) {&#10;    $END$&#10;    // Just return a value to define the module export.&#10;    // This example returns an object, but the module&#10;    // can return a function as the exported value.&#10;    return {};&#10;}));" description="umd returnexports + layui" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="AUTHOR" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="MOUDLES" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="REQUIRES" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="MOUDLE_OBJECTS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_EXPORTS" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ROOT_PROPERTIES" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="jsArrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+    </context>
+  </template>
 </templateSet>
