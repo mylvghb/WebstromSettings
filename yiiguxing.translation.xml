@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="`getModuleFactory`. If left `undefined`, the `NgModule` will not be registered with" />
+      <item value="An opaque ID for this module, e.g. a name or a path. Used to identify modules in" />
+      <item value="any custom elements (tag name has &quot;-&quot;) with any properties are" />
+      <item value="any elements and properties are allowed" />
+      <item value="will automatically be added to `entryComponents`." />
+      <item value="this module is bootstrapped. The components listed here" />
+      <item value="Defines the components that should be bootstrapped when" />
+      <item value="and store it in the {@link ComponentFactoryResolver}." />
+      <item value="For each component listed here, Angular will create a {@link ComponentFactory}" />
+      <item value="Specifies a list of components that should be compiled when this module is defined." />
+      <item value="that imports this Angular module." />
+      <item value="of any component that is part of an Angular module" />
+      <item value="Specifies a list of directives/pipes/modules that can be used within the template" />
+      <item value="This can also contain" />
+      <item value="should be available to templates in this module." />
       <item value="Specifies a list of modules whose exported directives/pipes" />
       <item value="Specifies a list of directives/pipes that belong to this module" />
       <item value="Here is an example of a class that can be injected" />
