@@ -1,0 +1,11 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Specifies a list of modules whose exported directives/pipes" />
+      <item value="Specifies a list of directives/pipes that belong to this module" />
+      <item value="Here is an example of a class that can be injected" />
+      <item value="Defines the set of injectable objects that are available in the injector * of this module." />
+      <item value="example of a class that can be inject" />
+    </histories>
+  </component>
+</application>
