@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lifecycle hook that is called when any data-bound property of a directive changes." />
       <item value="`getModuleFactory`. If left `undefined`, the `NgModule` will not be registered with" />
       <item value="An opaque ID for this module, e.g. a name or a path. Used to identify modules in" />
       <item value="any custom elements (tag name has &quot;-&quot;) with any properties are" />
