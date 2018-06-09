@@ -1,6 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="cs" value="console.$PROPERTY_NAME$(&quot;$TEXT$&quot;);" description="Insert console.x() statement" toReformat="false" toShortenFQNames="true">
-    <variable name="PROPERTY_NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+  <template name="csl" value="console.log('$TEXT$');$END$" description="向 Web 控制台输出一条消息" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
@@ -22,13 +21,25 @@
       <option name="JS_EXPRESSION" value="false" />
     </context>
   </template>
-  <template name="dw" value="document.write('$TEXT$');$END$" description="Output text to document." toReformat="false" toShortenFQNames="true">
+  <template name="dw" value="document.write('$TEXT$');$END$" description="将一个文本字符串写入由 document.open() 打开的一个文档流" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="dwl" value="document.writeln('$TEXT$');$END$" description="Output text to document." toReformat="false" toShortenFQNames="true">
+  <template name="dwl" value="document.writeln('$TEXT$');$END$" description="向文档中写入一串文本，并紧跟着一个换行符" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="csi" value="console.info('$TEXT$');$END$" description="向web控制台输出一个通知信息" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="cse" value="console.error('$TEXT$');$END$" description="向 Web 控制台输出一条错误消息" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
