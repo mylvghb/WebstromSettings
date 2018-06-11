@@ -23,7 +23,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="csi" value="console.error($OBJECT$);" description="Insert console.info() statement" toReformat="false" toShortenFQNames="true">
+  <template name="csi" value="console.info($OBJECT$);" description="Insert console.info() statement" toReformat="false" toShortenFQNames="true">
     <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
@@ -35,8 +35,18 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="while" value="while($BOOL_EXPRESSION$){&#10;    $END$&#10;}" description="Insert while(expression){} statement" toReformat="false" toShortenFQNames="true">
-    <variable name="BOOL_EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="while" value="while($BOOLEAN$){&#10;    $END$&#10;}" description="Insert while(expression){} statement" toReformat="false" toShortenFQNames="true">
+    <variable name="BOOLEAN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tcf" value="try{&#10;    $END$&#10;}catch(error){&#10;&#10;}finally{&#10;&#10;}" description="Insert try{}catch(e){}finally{} statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tc" value="try{&#10;    $END$&#10;}catch(error){&#10;&#10;}" description="Insert try{}catch(e){} statement" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
