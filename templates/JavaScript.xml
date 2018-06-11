@@ -35,4 +35,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="while" value="while($BOOL_EXPRESSION$){&#10;    $END$&#10;}" description="Insert while(expression){} statement" toReformat="false" toShortenFQNames="true">
+    <variable name="BOOL_EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

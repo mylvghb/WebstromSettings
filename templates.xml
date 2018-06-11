@@ -4,6 +4,10 @@
       <list>
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
+          <option name="key" value="itin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
           <option name="key" value="ref" />
         </TemplateKey>
       </list>
