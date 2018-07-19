@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going." />
+      <item value="We&amp;rsquo;re stoked you want to try Foundation" />
       <item value="nav" />
       <item value="把初始化第几页传递给查询参数" />
       <item value="Lifecycle hook that is called when any data-bound property of a directive changes." />
