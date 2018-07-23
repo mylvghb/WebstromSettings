@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relative - to" />
+      <item value="The normalize vertical-rhythm module only supports px inputs. The typey library is better." />
       <item value="To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going." />
       <item value="We&amp;rsquo;re stoked you want to try Foundation" />
       <item value="nav" />
