@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Want the guided tour to Foundation from the team that built it?" />
       <item value="把初始化第几页传递给查询参数" />
       <item value="Lifecycle hook that is called when any data-bound property of a directive changes." />
       <item value="`getModuleFactory`. If left `undefined`, the `NgModule` will not be registered with" />
