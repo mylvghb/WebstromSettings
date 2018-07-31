@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
+      <item value="Calculates the height as a percentage of the width for a given ratio." />
+      <item value="Finds the greatest common divisor of two integers." />
+      <item value="float" />
+      <item value="top - bar" />
+      <item value="title - bar" />
+      <item value="sticky" />
+      <item value="reveal" />
+      <item value="off - canvas" />
+      <item value="dropdown - menu" />
+      <item value="drilldown" />
+      <item value="accordion - menu" />
+      <item value="menu - icon" />
+      <item value="menu" />
+      <item value="thumbnail" />
+      <item value="tabs" />
+      <item value="responsive - embed" />
+      <item value="orbit" />
+      <item value="media - object" />
+      <item value="accordion" />
       <item value="util" />
       <item value="typography" />
       <item value="Basic components" />
@@ -31,26 +51,6 @@
       <item value="The font size set on the root html element." />
       <item value="You can override the default values by setting the variables in your Sass // before importing the normalize-scss library." />
       <item value="Variables" />
-      <item value="relative - to" />
-      <item value="The normalize vertical-rhythm module only supports px inputs. The typey library is better." />
-      <item value="To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going." />
-      <item value="We&amp;rsquo;re stoked you want to try Foundation" />
-      <item value="nav" />
-      <item value="把初始化第几页传递给查询参数" />
-      <item value="Lifecycle hook that is called when any data-bound property of a directive changes." />
-      <item value="`getModuleFactory`. If left `undefined`, the `NgModule` will not be registered with" />
-      <item value="An opaque ID for this module, e.g. a name or a path. Used to identify modules in" />
-      <item value="any custom elements (tag name has &quot;-&quot;) with any properties are" />
-      <item value="any elements and properties are allowed" />
-      <item value="will automatically be added to `entryComponents`." />
-      <item value="this module is bootstrapped. The components listed here" />
-      <item value="Defines the components that should be bootstrapped when" />
-      <item value="and store it in the {@link ComponentFactoryResolver}." />
-      <item value="For each component listed here, Angular will create a {@link ComponentFactory}" />
-      <item value="Specifies a list of components that should be compiled when this module is defined." />
-      <item value="that imports this Angular module." />
-      <item value="of any component that is part of an Angular module" />
-      <item value="Specifies a list of directives/pipes/modules that can be used within the template" />
     </histories>
   </component>
 </application>
