@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
+      <item value="exponent" />
       <item value="Calculates the height as a percentage of the width for a given ratio." />
       <item value="Finds the greatest common divisor of two integers." />
       <item value="float" />
@@ -50,7 +51,6 @@
       <item value="The base line height determines the basic unit of vertical rhythm." />
       <item value="The font size set on the root html element." />
       <item value="You can override the default values by setting the variables in your Sass // before importing the normalize-scss library." />
-      <item value="Variables" />
     </histories>
   </component>
 </application>
