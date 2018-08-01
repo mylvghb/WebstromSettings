@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Zero to Website Guide" />
+      <item value="Foundation Kits are curated bundles of Building Blocks designed for building specific types of websites and apps. Download from 7 powerful Kits to jumpstart your next project." />
       <item value="Foundation Kits" />
       <item value="Building Blocks are coded UI components you can drop into any standard Foundation project. Building Blocks will help you rapidly accelerate your development time." />
       <item value="Foundation Building Blocks" />
@@ -49,8 +51,6 @@
       <item value="orbit" />
       <item value="media - object" />
       <item value="accordion" />
-      <item value="util" />
-      <item value="typography" />
     </histories>
   </component>
 </application>
