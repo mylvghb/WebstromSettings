@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Removes the unit (e.g. px, em, rem) from a value, returning the number only." />
+      <item value="The same number, sans unit." />
+      <item value="The same number, sans unit" />
       <item value="Calculates the height as a percentage of the width for a given ratio." />
       <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
       <item value="exponent" />
@@ -48,9 +51,6 @@
       <item value="The length unit in which to output vertical rhythm values." />
       <item value="// The length unit in which to output vertical rhythm values. // Supported values: px, em, rem." />
       <item value="The base line height determines the basic unit of vertical rhythm" />
-      <item value="The base line height determines the basic unit of vertical rhythm." />
-      <item value="The font size set on the root html element." />
-      <item value="You can override the default values by setting the variables in your Sass // before importing the normalize-scss library." />
     </histories>
   </component>
 </application>
