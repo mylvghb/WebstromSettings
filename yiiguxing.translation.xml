@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Coming from another framework? It’s the perfect time to make the switch and learn Foundation. Download our free e-book that will help you convince your team that Foundation is better, easier to learn, and more flexible than anything else out there." />
+      <item value="The World’s Most Advanced Front-end Framework" />
+      <item value="This video will take you through downloading and getting started with the Foundation ZURB stack." />
+      <item value="Foundation Starter Projects - ZURB Stack" />
+      <item value="This video will take you through downloading and getting started with the Foundation CSS project." />
+      <item value="Additional Resources" />
+      <item value="Why Foundation" />
+      <item value="you'll learn your way around Foundation in no time!" />
+      <item value="With an easy to understand syntax and consistent structure, you'll learn your way around Foundation in no time!" />
+      <item value="Check out the next Foundation training" />
+      <item value="The number one way to learn your way around Foundation and start mastering responsive web development is via the training courses offered by the ZURB team." />
+      <item value="Our installation page will help you find the best option for you." />
+      <item value="There are a number of ways to install" />
+      <item value="There are a number of ways to install Foundation for Sites." />
       <item value="We built Foundation for Sites to be the most advanced responsive front-end framework in the world." />
       <item value="Welcome to Foundation 6" />
       <item value="Removes the unit (e.g. px, em, rem) from a value, returning the number only." />
@@ -37,20 +51,6 @@
       <item value="Casts `$value` into a list." />
       <item value="Replaces `$old` by `$new` in `$list`." />
       <item value="list to update" />
-      <item value="Removes value(s) `$value` from `$list`." />
-      <item value="list to purge" />
-      <item value="Removes all false and null values from `$list`." />
-      <item value="value to look for" />
-      <item value="list to check" />
-      <item value="Returns whether `$list` contains `$value`." />
-      <item value="Returns truthiness of `$value`." />
-      <item value="truthiness of `$value`." />
-      <item value="Whether or not there are missing dependencies" />
-      <item value="list of functions to check for" />
-      <item value="Checks whether `$functions` exist in global scope." />
-      <item value="The amount lists and blockquotes are indented." />
-      <item value="Supported values: px, em, rem." />
-      <item value="The length unit in which to output vertical rhythm values." />
     </histories>
   </component>
 </application>
