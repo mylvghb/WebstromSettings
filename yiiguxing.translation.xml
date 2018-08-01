@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calculates the height as a percentage of the width for a given ratio." />
       <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
       <item value="exponent" />
-      <item value="Calculates the height as a percentage of the width for a given ratio." />
       <item value="Finds the greatest common divisor of two integers." />
       <item value="float" />
       <item value="top - bar" />
