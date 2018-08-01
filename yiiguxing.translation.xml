@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We built Foundation for Sites to be the most advanced responsive front-end framework in the world." />
+      <item value="Welcome to Foundation 6" />
       <item value="Removes the unit (e.g. px, em, rem) from a value, returning the number only." />
       <item value="The same number, sans unit." />
       <item value="The same number, sans unit" />
@@ -49,8 +51,6 @@
       <item value="The amount lists and blockquotes are indented." />
       <item value="Supported values: px, em, rem." />
       <item value="The length unit in which to output vertical rhythm values." />
-      <item value="// The length unit in which to output vertical rhythm values. // Supported values: px, em, rem." />
-      <item value="The base line height determines the basic unit of vertical rhythm" />
     </histories>
   </component>
 </application>
