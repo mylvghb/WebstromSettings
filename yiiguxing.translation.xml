@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Foundation Kits" />
+      <item value="Building Blocks are coded UI components you can drop into any standard Foundation project. Building Blocks will help you rapidly accelerate your development time." />
+      <item value="Foundation Building Blocks" />
       <item value="Get eight responsive templates to kick off your projects built with the same techniques we teach in our Introduction to Foundation 6 Course to build your business upon." />
       <item value="Leverage the Power of Design for Your Business" />
       <item value="Web technologies are rapidly changing, but time and resources are finite. Find out why Learning Foundation places you at the cutting edge of the website development." />
@@ -48,9 +51,6 @@
       <item value="accordion" />
       <item value="util" />
       <item value="typography" />
-      <item value="Basic components" />
-      <item value="Generic components" />
-      <item value="import and modify the default settings through" />
     </histories>
   </component>
 </application>
