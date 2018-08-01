@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Master Foundation ultra fast. The Foundation team will get you up to speed on everything you need to know to get the most out of Foundation 6." />
       <item value="Live Webinar: Introduction to Foundation 6" />
       <item value="Zero to Website Guide" />
       <item value="Foundation Kits are curated bundles of Building Blocks designed for building specific types of websites and apps. Download from 7 powerful Kits to jumpstart your next project." />
@@ -50,7 +51,6 @@
       <item value="tabs" />
       <item value="responsive - embed" />
       <item value="orbit" />
-      <item value="media - object" />
     </histories>
   </component>
 </application>
