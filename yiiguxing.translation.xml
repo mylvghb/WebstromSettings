@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concatenated JavaScript files." />
+      <item value="Compiled CSS files. Includes minified and unminified files." />
+      <item value="Source JavaScript files. If you're using a build system, make sure `foundation.core.js` is loaded first." />
+      <item value="Source Sass files. Use this folder as a load path in Sass." />
+      <item value="Foundation is available on npm, Bower, Meteor, and Composer. The package includes all of the source Sass and JavaScript files, as well as compiled CSS and JavaScript, in uncompressed and compressed flavors." />
+      <item value="There are many ways to install Foundation, but if you're just getting started, we have a few suggestions." />
+      <item value="See how people are using Foundation to build responsive, future-friendly sites. We learn what went into their designs, decisions, and how Foundation helped them get to their goals." />
+      <item value="Foundation in the wild. See how people are using Foundation to build responsive, future-friendly sites. We learn what went into their designs, decisions, and how Foundation helped them get to their goals." />
+      <item value="Foundation Case Studies" />
+      <item value="Big brands are relying more and more on the world's most advanced, responsive front-end framework. Their sites are now built so that customers can connect with them on any device." />
+      <item value="Foundation Brands" />
+      <item value="5 Years of Shaping the Web" />
+      <item value="Learn more about the framework and where it's going next." />
+      <item value="This year Foundation turned five years old. It was the first to be responsive, the first to be semantic, the first to be mobile first, the first to be built with Sass, and the first to have accessibility built in. Learn more about the framework and where it's going next." />
+      <item value="This is a demo integration of Foundation for Sites 6.3 in a VueJS 2.1 single-page application." />
+      <item value="Setting up Vue 2 and Foundation 6" />
+      <item value="JointsWP is a blank WordPress theme built with Foundation 6, giving you all the power and flexibility you need to build complex, mobile friendly websites without starting from scratch." />
+      <item value="JointsWP: Foundation 6 meets WordPress" />
       <item value="React is a JavaScript library for building user interfaces. Now you can use Foundation for Sites 6 components implemented in React with CSS Modules!" />
       <item value="The awesome folks at Pinecone created an Angular port for Foundation. Angular.js assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side." />
       <item value="Angular Foundation 6" />
@@ -33,24 +51,6 @@
       <item value="Learn More" />
       <item value="Coming from another framework? It’s the perfect time to make the switch and learn Foundation. Download our free e-book that will help you convince your team that Foundation is better, easier to learn, and more flexible than anything else out there." />
       <item value="The World’s Most Advanced Front-end Framework" />
-      <item value="This video will take you through downloading and getting started with the Foundation ZURB stack." />
-      <item value="Foundation Starter Projects - ZURB Stack" />
-      <item value="This video will take you through downloading and getting started with the Foundation CSS project." />
-      <item value="Additional Resources" />
-      <item value="Why Foundation" />
-      <item value="you'll learn your way around Foundation in no time!" />
-      <item value="With an easy to understand syntax and consistent structure, you'll learn your way around Foundation in no time!" />
-      <item value="Check out the next Foundation training" />
-      <item value="The number one way to learn your way around Foundation and start mastering responsive web development is via the training courses offered by the ZURB team." />
-      <item value="Our installation page will help you find the best option for you." />
-      <item value="There are a number of ways to install" />
-      <item value="There are a number of ways to install Foundation for Sites." />
-      <item value="We built Foundation for Sites to be the most advanced responsive front-end framework in the world." />
-      <item value="Welcome to Foundation 6" />
-      <item value="Removes the unit (e.g. px, em, rem) from a value, returning the number only." />
-      <item value="The same number, sans unit." />
-      <item value="The same number, sans unit" />
-      <item value="Calculates the height as a percentage of the width for a given ratio." />
     </histories>
   </component>
 </application>
