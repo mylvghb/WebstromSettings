@@ -1,12 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="React is a JavaScript library for building user interfaces. Now you can use Foundation for Sites 6 components implemented in React with CSS Modules!" />
+      <item value="The awesome folks at Pinecone created an Angular port for Foundation. Angular.js assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side." />
+      <item value="Angular Foundation 6" />
+      <item value="Latest Foundation Updates" />
+      <item value="Returns whether `$list` contains `$value`." />
+      <item value="Removes all false and null values from `$list`." />
+      <item value="Removes value(s) `$value` from `$list`." />
+      <item value="Replaces `$old` by `$new` in `$list`." />
+      <item value="Casts `$value` into a list." />
+      <item value="Checks whether `$functions` exist in global scope." />
+      <item value="Returns truthiness of `$value`." />
+      <item value="Foundation Integrations" />
+      <item value="The Foundation team has cut your development time in half again with Foundation Building Blocks. In this tutorial we'll show you how to find the right building block and the way to install it that works best for you." />
+      <item value="Building Blocks are coded UI components you can drop into any standard Foundation project. Building Blocks will help you rapidly accelerate your development time." />
+      <item value="Accelerate Your Development" />
+      <item value="Foundation 6.4 has dropped and it is AWESOME. This new release is jampacked with some incredible new features that enable you to build layouts and designs with Foundation that weren’t possible before." />
+      <item value="Foundation 6.4.0 Update: A New Grid, JavaScript Upgrades, and Slick New Prototyping Mode" />
+      <item value="Experienced with Foundation for Sites" />
+      <item value="Introduction to Foundation 6" />
       <item value="Master Foundation ultra fast. The Foundation team will get you up to speed on everything you need to know to get the most out of Foundation 6." />
       <item value="Live Webinar: Introduction to Foundation 6" />
       <item value="Zero to Website Guide" />
       <item value="Foundation Kits are curated bundles of Building Blocks designed for building specific types of websites and apps. Download from 7 powerful Kits to jumpstart your next project." />
       <item value="Foundation Kits" />
-      <item value="Building Blocks are coded UI components you can drop into any standard Foundation project. Building Blocks will help you rapidly accelerate your development time." />
       <item value="Foundation Building Blocks" />
       <item value="Get eight responsive templates to kick off your projects built with the same techniques we teach in our Introduction to Foundation 6 Course to build your business upon." />
       <item value="Leverage the Power of Design for Your Business" />
@@ -33,24 +51,6 @@
       <item value="The same number, sans unit." />
       <item value="The same number, sans unit" />
       <item value="Calculates the height as a percentage of the width for a given ratio." />
-      <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
-      <item value="exponent" />
-      <item value="Finds the greatest common divisor of two integers." />
-      <item value="float" />
-      <item value="top - bar" />
-      <item value="title - bar" />
-      <item value="sticky" />
-      <item value="reveal" />
-      <item value="off - canvas" />
-      <item value="dropdown - menu" />
-      <item value="drilldown" />
-      <item value="accordion - menu" />
-      <item value="menu - icon" />
-      <item value="menu" />
-      <item value="thumbnail" />
-      <item value="tabs" />
-      <item value="responsive - embed" />
-      <item value="orbit" />
     </histories>
   </component>
 </application>
