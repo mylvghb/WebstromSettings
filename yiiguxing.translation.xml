@@ -1,6 +1,32 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Removes all false and null values from `$list`." />
+      <item value="purge" />
+      <item value="Returns whether `$list` contains `$value`." />
+      <item value="value to check" />
+      <item value="Returns truthiness of `$value`. ///" />
+      <item value="Whether or not there are missing dependencies" />
+      <item value="list of functions to check for" />
+      <item value="Checks whether `$functions` exist in global scope." />
+      <item value="Add the correct font size in all browsers." />
+      <item value="Correct the inheritance and scaling of font size in all browsers." />
+      <item value="Add the correct font weight in Chrome, Edge, and Safari." />
+      <item value="Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari." />
+      <item value="Remove the bottom border in Chrome 57-" />
+      <item value="Remove the gray background on active links in IE 10." />
+      <item value="Text-level semantics" />
+      <item value="Correct the odd `em` font sizing in all browsers." />
+      <item value="Show the overflow in Edge and IE." />
+      <item value="Add the correct box sizing in Firefox." />
+      <item value="// Correct the font size and margin on `h1` elements within `section` and // `article` contexts in Chrome, Firefox, and Safari." />
+      <item value="Correct the font size and margin on `h1` elements within `section` and" />
+      <item value="Is a keyword preventing the usage of the inflation algorithm on the element. Basically, this means that the element will be displayed without its font inflated. On desktop Webkit-based browsers, this will only prevent any zoom on the whole page." />
+      <item value="- webkit - text - size - adjust" />
+      <item value="Remove the margin in all browsers." />
+      <item value="Sections" />
+      <item value="Prevent adjustments of font size after orientation changes in iOS." />
+      <item value="Correct the line height in all browsers." />
       <item value="Want the guided tour to Foundation from the team that built it?" />
       <item value="把初始化第几页传递给查询参数" />
       <item value="Lifecycle hook that is called when any data-bound property of a directive changes." />
