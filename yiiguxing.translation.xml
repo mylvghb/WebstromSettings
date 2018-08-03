@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="See advanced Template installations" />
+      <item value="Production build with CSS, Javascript and Image compression" />
+      <item value="Built-in BrowserSync" />
+      <item value="JavaScript module bundling with webpack" />
+      <item value="Sass compilation and prefixing" />
+      <item value="Handlebars HTML templates with Panini" />
+      <item value="A more advanced project including Foundation and a build process with:" />
+      <item value="Recommended for experienced (or curious) users" />
+      <item value="A basic file to help you to use basic Foundation component (including the new XY grid !)" />
+      <item value="Starter HTML file" />
+      <item value="A tool to convert your SASS/SCSS files to CSS." />
+      <item value="Sass compilation" />
+      <item value="Foundation for Sites pre-configured." />
+      <item value="A basic template to begin to use Foundation. It includes:" />
+      <item value="Recommended for beginners" />
+      <item value="After you selected &quot;Foundation for Sites&quot;, Foundation CLI will ask you which template you want to use. You can choose between:" />
+      <item value="Then use to create a new Foundation project:" />
+      <item value="Depending on how your machine is configured, the command may fail with an `EACCESS` error. To get around this, run the commands with `sudo` at the beginning." />
+      <item value="Not a fan of GUIs? The Node-powered Foundation CLI can install the same template projects for you." />
       <item value="Concatenated JavaScript files." />
       <item value="Compiled CSS files. Includes minified and unminified files." />
       <item value="Source JavaScript files. If you're using a build system, make sure `foundation.core.js` is loaded first." />
@@ -32,25 +51,6 @@
       <item value="Returns truthiness of `$value`." />
       <item value="Foundation Integrations" />
       <item value="The Foundation team has cut your development time in half again with Foundation Building Blocks. In this tutorial we'll show you how to find the right building block and the way to install it that works best for you." />
-      <item value="Building Blocks are coded UI components you can drop into any standard Foundation project. Building Blocks will help you rapidly accelerate your development time." />
-      <item value="Accelerate Your Development" />
-      <item value="Foundation 6.4 has dropped and it is AWESOME. This new release is jampacked with some incredible new features that enable you to build layouts and designs with Foundation that weren’t possible before." />
-      <item value="Foundation 6.4.0 Update: A New Grid, JavaScript Upgrades, and Slick New Prototyping Mode" />
-      <item value="Experienced with Foundation for Sites" />
-      <item value="Introduction to Foundation 6" />
-      <item value="Master Foundation ultra fast. The Foundation team will get you up to speed on everything you need to know to get the most out of Foundation 6." />
-      <item value="Live Webinar: Introduction to Foundation 6" />
-      <item value="Zero to Website Guide" />
-      <item value="Foundation Kits are curated bundles of Building Blocks designed for building specific types of websites and apps. Download from 7 powerful Kits to jumpstart your next project." />
-      <item value="Foundation Kits" />
-      <item value="Foundation Building Blocks" />
-      <item value="Get eight responsive templates to kick off your projects built with the same techniques we teach in our Introduction to Foundation 6 Course to build your business upon." />
-      <item value="Leverage the Power of Design for Your Business" />
-      <item value="Web technologies are rapidly changing, but time and resources are finite. Find out why Learning Foundation places you at the cutting edge of the website development." />
-      <item value="Build Your Career on a Solid Foundation" />
-      <item value="Learn More" />
-      <item value="Coming from another framework? It’s the perfect time to make the switch and learn Foundation. Download our free e-book that will help you convince your team that Foundation is better, easier to learn, and more flexible than anything else out there." />
-      <item value="The World’s Most Advanced Front-end Framework" />
     </histories>
   </component>
 </application>
