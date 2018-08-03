@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="See all CDN files and versions" />
+      <item value="From Foundation 6.4, flex is enabled by default and **only the new XY Grid is availaible**. However, others CSS versions are availaible for backward compatibility and the most common usage cases. For others uses and advanced customization, we recommand to build Foundation with custom settings (see others installation methods)." />
+      <item value="From Foundation 6.4, flex is enabled by default and" />
+      <item value="folks" />
+      <item value="The folks at" />
+      <item value="If you aren't into Sass, we have a starter template with compiled CSS and JavaScript, as well as a starting `index.html` file for you to hack on. Just unzip and get coding!" />
+      <item value="After testing this new CLI, if you want to go back to the old CLI. To remove the Foundation 6 CLI, run" />
+      <item value="To remove the Foundation 5 CLI, run" />
+      <item value="if you already have the Foundation 5 CLI on your machine, you will only be able to access one of the commands, depending on how your command line environment is configured." />
       <item value="See advanced Template installations" />
       <item value="Production build with CSS, Javascript and Image compression" />
       <item value="Built-in BrowserSync" />
@@ -42,15 +51,6 @@
       <item value="The awesome folks at Pinecone created an Angular port for Foundation. Angular.js assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side." />
       <item value="Angular Foundation 6" />
       <item value="Latest Foundation Updates" />
-      <item value="Returns whether `$list` contains `$value`." />
-      <item value="Removes all false and null values from `$list`." />
-      <item value="Removes value(s) `$value` from `$list`." />
-      <item value="Replaces `$old` by `$new` in `$list`." />
-      <item value="Casts `$value` into a list." />
-      <item value="Checks whether `$functions` exist in global scope." />
-      <item value="Returns truthiness of `$value`." />
-      <item value="Foundation Integrations" />
-      <item value="The Foundation team has cut your development time in half again with Foundation Building Blocks. In this tutorial we'll show you how to find the right building block and the way to install it that works best for you." />
     </histories>
   </component>
 </application>
