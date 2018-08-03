@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add custom SCSS and css to new files in the `components` folder then import those files at the bottom of `app.scss`" />
+      <item value="Change Sass variables in `_settings.scss`" />
+      <item value="To override or add to the default styles of the ZURB Template, in your project's `src/assets/scss/` folder" />
+      <item value="As you work on your project" />
       <item value="As you work on your project, Gulp continuously updates your `dist/` folder with new versions of files. To compile a production build, run `npm run build`." />
       <item value="The biggest difference between this and the basic template is the folder structure. In the ZURB Template, your project has a `src/` folder which contains your source files, and a separate `dist/` folder with your finished website. As you work on your project, Gulp continuously updates your `dist/` folder with new versions of files. To compile a production build, run `npm run build`." />
       <item value="and a separate `dist/` folder with your finished website." />
@@ -47,10 +51,6 @@
       <item value="Source JavaScript files. If you're using a build system, make sure `foundation.core.js` is loaded first." />
       <item value="Source Sass files. Use this folder as a load path in Sass." />
       <item value="Foundation is available on npm, Bower, Meteor, and Composer. The package includes all of the source Sass and JavaScript files, as well as compiled CSS and JavaScript, in uncompressed and compressed flavors." />
-      <item value="There are many ways to install Foundation, but if you're just getting started, we have a few suggestions." />
-      <item value="See how people are using Foundation to build responsive, future-friendly sites. We learn what went into their designs, decisions, and how Foundation helped them get to their goals." />
-      <item value="Foundation in the wild. See how people are using Foundation to build responsive, future-friendly sites. We learn what went into their designs, decisions, and how Foundation helped them get to their goals." />
-      <item value="Foundation Case Studies" />
     </histories>
   </component>
 </application>
