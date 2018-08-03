@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="As you work on your project, Gulp continuously updates your `dist/` folder with new versions of files. To compile a production build, run `npm run build`." />
+      <item value="The biggest difference between this and the basic template is the folder structure. In the ZURB Template, your project has a `src/` folder which contains your source files, and a separate `dist/` folder with your finished website. As you work on your project, Gulp continuously updates your `dist/` folder with new versions of files. To compile a production build, run `npm run build`." />
+      <item value="and a separate `dist/` folder with your finished website." />
+      <item value="The biggest difference between this and the basic template is the folder structure." />
+      <item value="Once compiled, you project is viewable at:" />
+      <item value="You can manually install the template with:" />
+      <item value="You can set up an advanced project through the Foundation CLI with this command:" />
+      <item value="The official ZURB Template includes not only Sass processing, but also JavaScript processing, Handlebars templating, and image compression. We use this exact template at ZURB for our client work!" />
+      <item value="Your project will be recompiled every time you save a Sass file in `dist/." />
+      <item value="You can set up a basic project through the Foundation CLI with this command:" />
+      <item value="Our basic project template is a lot like the Sass template from Foundation 5. The project has a flat directory structure and only compiles Sass. It's great if you want to quickly put together a simple project and only need to use Sass." />
+      <item value="Our project templates give you a solid... *Foundation* on which to start a new project. Both templates use the [Gulp](http://gulpjs.com) build system to automate the process of compiling Sass, processing JavaScript, copying files, and more." />
       <item value="Our project templates give you a solid..." />
       <item value="See all CDN files and versions" />
       <item value="From Foundation 6.4, flex is enabled by default and **only the new XY Grid is availaible**. However, others CSS versions are availaible for backward compatibility and the most common usage cases. For others uses and advanced customization, we recommand to build Foundation with custom settings (see others installation methods)." />
@@ -39,18 +51,6 @@
       <item value="See how people are using Foundation to build responsive, future-friendly sites. We learn what went into their designs, decisions, and how Foundation helped them get to their goals." />
       <item value="Foundation in the wild. See how people are using Foundation to build responsive, future-friendly sites. We learn what went into their designs, decisions, and how Foundation helped them get to their goals." />
       <item value="Foundation Case Studies" />
-      <item value="Big brands are relying more and more on the world's most advanced, responsive front-end framework. Their sites are now built so that customers can connect with them on any device." />
-      <item value="Foundation Brands" />
-      <item value="5 Years of Shaping the Web" />
-      <item value="Learn more about the framework and where it's going next." />
-      <item value="This year Foundation turned five years old. It was the first to be responsive, the first to be semantic, the first to be mobile first, the first to be built with Sass, and the first to have accessibility built in. Learn more about the framework and where it's going next." />
-      <item value="This is a demo integration of Foundation for Sites 6.3 in a VueJS 2.1 single-page application." />
-      <item value="Setting up Vue 2 and Foundation 6" />
-      <item value="JointsWP is a blank WordPress theme built with Foundation 6, giving you all the power and flexibility you need to build complex, mobile friendly websites without starting from scratch." />
-      <item value="JointsWP: Foundation 6 meets WordPress" />
-      <item value="React is a JavaScript library for building user interfaces. Now you can use Foundation for Sites 6 components implemented in React with CSS Modules!" />
-      <item value="The awesome folks at Pinecone created an Angular port for Foundation. Angular.js assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side." />
-      <item value="Angular Foundation 6" />
     </histories>
   </component>
 </application>
