@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you use a CSS version of Foundation (the ones you can find on the [download page](http://foundation.zurb.com/sites/download)), you'll need to create a custom download that includes RTL CSS instead of LTR. Just select &quot;Right-to-left&quot; under the Text Direction section of the customizer." />
+      <item value="View of a [full list of language codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) on the website of the Library of Congress." />
+      <item value="View of a" />
+      <item value="Yiddish :" />
+      <item value="Urdu :" />
+      <item value="Hebrew :" />
+      <item value="Farsi :" />
+      <item value="Chinese :" />
+      <item value="Arabic :" />
+      <item value="Arabic" />
+      <item value="You'll need to change your lang attribute value to match your language. Here's a handy list of common right-to-left languages and their html codes." />
+      <item value="Language Code" />
+      <item value="This example is for a right-to-left Arabic layout" />
+      <item value="You'll need to make a few changes to your markup to get the Javascript components working nice and smooth. In the `&lt;html&gt;` tag, you'll need to add a `dir` attribute with a value of `rtl`. Here's what your `&lt;html&gt;` tag should look like:" />
+      <item value="Foundation can easily adapt its components to work with languages that read from right to left." />
+      <item value="adapt" />
       <item value="Global tolerance for color pick contrast." />
       <item value="Internal variables used for text direction" />
       <item value="button cursor's value, `auto` by default" />
@@ -35,22 +51,6 @@
       <item value="Tooltip" />
       <item value="Toggler" />
       <item value="Sticky" />
-      <item value="Slider" />
-      <item value="Magellan" />
-      <item value="Interchange" />
-      <item value="Equalizer" />
-      <item value="## Drilldown Menu &lt;div class=&quot;docs-codepen-container&quot; data-ks-codepen&gt; &lt;a class=&quot;codepen-logo-link&quot; href=&quot;https://codepen.io/IamManchanda/pen/mmLrZz?editors=1000&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;{{root}}assets/img/logos/edit-in-browser.svg&quot; class=&quot;&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;edit on codepen button&quot;&gt;&lt;/a&gt; &lt;/div&gt; ```html_example &lt;ul class=&quot;vertical menu&quot; data-drilldown style=&quot;width: 200px&quot; id=&quot;m1&quot;&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 1&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot; id=&quot;m2&quot;&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 1A&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot; id=&quot;m3&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Aa&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ba&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ca&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Da&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ea&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 2&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2A&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 3&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3A&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href='#0'&gt; Item 4&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; ``` ---" />
-      <item value="WAVE Chrome" />
-      <item value="NVDA screen reader for Windows - Free" />
-      <item value="JAWS screen reader for Windows" />
-      <item value="WAVE" />
-      <item value="ChromeVox screen reader plugin for Chrome" />
-      <item value="Color Contrast Checker" />
-      <item value="free accessibility checker" />
-      <item value="accessibility checker" />
-      <item value="Accessibility Checklist" />
-      <item value="certification and training" />
-      <item value="Section 508 government requirements" />
     </histories>
   </component>
 </application>
