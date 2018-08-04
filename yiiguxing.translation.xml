@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Our plugins use a number of handy ECMAScript 5 features that aren't supported in IE8." />
+      <item value="Because the framework is written mobile-first, browsers that don't support media queries will display the mobile styles of the site." />
+      <item value="gutters" />
+      <item value="to apply gutters to columns, but this property isn't supported in IE8." />
+      <item value="Foundation's grid uses `box-sizing: border-box` to apply gutters to columns, but this property isn't supported in IE8." />
+      <item value="What Won't Work?" />
+      <item value="is actively supported but with some known bugs." />
+      <item value="Overview" />
+      <item value="Foundation is tested across many browsers and devices, and works back as far as IE9 and Android 2." />
+      <item value="Responsive Content" />
+      <item value="Column Alignment" />
+      <item value="Abide" />
+      <item value="Libraries" />
+      <item value="Carousel" />
+      <item value="Responsive Embed" />
+      <item value="Badge" />
+      <item value="Orbit" />
+      <item value="Tooltip" />
+      <item value="Thumbnail" />
+      <item value="Responsive Accordion Tabs" />
+      <item value="Top Bar" />
+      <item value="Slider" />
+      <item value="Utilities" />
+      <item value="General" />
+      <item value="Legacy" />
+      <item value="Setup" />
+      <item value="Kitchen Sink" />
+      <item value="Accessibility" />
+      <item value="Compatibility" />
+      <item value="changelog" />
       <item value="教程" />
       <item value="Tutorials" />
       <item value="via" />
@@ -21,36 +51,6 @@
       <item value="it manages all assets and dependencies for you and compiles them into one single file. If you're unfamiliar with imports or module bundling, check out:" />
       <item value="The whole bundling process is handled by" />
       <item value="A source map is created that maps back to the original files. By default, the bundled `app.js` is uncompressed. When building for production, the file is run through [UglifyJS](https://github.com/mishoo/UglifyJS) for compression." />
-      <item value="You can import there installed packages and custom files, they will be included in the build." />
-      <item value="he main Js file is under" />
-      <item value="JavaScript is transpiled using" />
-      <item value="The CSS is output in the `nested` style, which is readable like normal CSS. A source map is also created, which can be read by developer tools such as the Chrome Web Inspector. When building for production, the CSS is also compressed with [clean-css](https://github.com/jakubpawlowicz/clean-css/issues), and pruned with [UnCSS](https://github.com/giakki/uncss). UnCSS scans the HTML of your pages and removes any CSS classes you didn't use." />
-      <item value="nested" />
-      <item value="Any new Sass partials you create should be in this folder as well." />
-      <item value="The main Sass file is under" />
-      <item value="Learn more about Panini." />
-      <item value="Panini has a dedicated page here in the docs that explains its various features." />
-      <item value="This is done with a templating language called" />
-      <item value="is used to process your project's various pages, inserting them into a common template, and injecting any HTML partials." />
-      <item value="A flat file compiler called" />
-      <item value="directory includes three folders used to create HTML pages:" />
-      <item value="The `src/` directory includes three folders used to create HTML pages:" />
-      <item value="part of this copying process, as they have their own steps." />
-      <item value="Note that Sass files, JavaScript files, and images are *not* **part of this copying process, as they have their own steps.**" />
-      <item value="Gulp will copy anything out of the `src/assets` folder as-is to the `assets` folder of your final project. Note that Sass files, JavaScript files, and images are *not* **part of this copying process, as they have their own steps.**" />
-      <item value="Compilation" />
-      <item value="Asset Copying" />
-      <item value="Here's an overview of what the ZURB Template can do:" />
-      <item value="Features" />
-      <item value="in the release notes" />
-      <item value="to incorporate any Sass changes found" />
-      <item value="incorporate" />
-      <item value="As a result, you must manually edit your `_settings.scss` file to incorporate any Sass changes found" />
-      <item value="The `_settings.scss` and `app.scss` files are not changed when upgrading an existing project. As a result, you must manually edit your `_settings.scss` file to incorporate any Sass changes found [in the release notes](https://github.com/zurb/foundation-sites/releases)." />
-      <item value="Add custom SCSS and css to new files in the `components` folder then import those files at the bottom of `app.scss`" />
-      <item value="Change Sass variables in `_settings.scss`" />
-      <item value="To override or add to the default styles of the ZURB Template, in your project's `src/assets/scss/` folder" />
-      <item value="As you work on your project" />
     </histories>
   </component>
 </application>
