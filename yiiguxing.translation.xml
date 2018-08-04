@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Color used for light gray UI items." />
+      <item value="Colors used for buttons, callouts, links, etc. There must always be a color called `primary`." />
+      <item value="Default line height for all type. `$global-lineheight` is 24px while `$global-font-size` is 16px" />
+      <item value="Global width of your site. Used by the grid to determine row width." />
+      <item value="Font size attribute applied to `&lt;html&gt;` and `&lt;body&gt;`. We use 100% by default so the value is inherited from the user's browser settings." />
+      <item value="Create a variable for my custom color." />
+      <item value="You can also use Foundation's `get-color()` function to reference *any color* from the palette. This function gives you access to custom colors you've added to the palette." />
+      <item value="The line `@include add-foundation-colors;` in your settings file allows you to use the following Sass variables to reference *default colors* from the palette:" />
+      <item value="can be changed in their respective variables" />
+      <item value="The keys in this map are referenced by various settings to style components and output alternate class names." />
+      <item value="can be changed in the `$foundation-palette` map." />
+      <item value="The semantic colors" />
+      <item value="If you're using the Sass version of Foundation, you can easily change the color palette by editing the variables in your settings file." />
+      <item value="Changing the Color Palette" />
+      <item value="Light Gray" />
+      <item value="Foundation has an accessible default color palette. The primary color is used for interactive elements, such as links and buttons. The secondary, success, warning, and alert colors are used to give more context to UI elements and actions." />
+      <item value="The default font size is set to 100% of the browser style sheet, usually 16 pixels. This ensures compatibility with browser-based text zoom or user-set defaults. If you're using the Sass version of Foundation, edit the `$global-font-size` variable to change the base font size. This can be a percentage value, or a pixel value." />
+      <item value="Our global CSS includes helpful resets to ensure consistent styling across browsers." />
+      <item value="Tooltip" />
+      <item value="Toggler" />
+      <item value="Sticky" />
+      <item value="Slider" />
+      <item value="Magellan" />
+      <item value="Interchange" />
+      <item value="Equalizer" />
       <item value="## Drilldown Menu &lt;div class=&quot;docs-codepen-container&quot; data-ks-codepen&gt; &lt;a class=&quot;codepen-logo-link&quot; href=&quot;https://codepen.io/IamManchanda/pen/mmLrZz?editors=1000&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;{{root}}assets/img/logos/edit-in-browser.svg&quot; class=&quot;&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;edit on codepen button&quot;&gt;&lt;/a&gt; &lt;/div&gt; ```html_example &lt;ul class=&quot;vertical menu&quot; data-drilldown style=&quot;width: 200px&quot; id=&quot;m1&quot;&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 1&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot; id=&quot;m2&quot;&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 1A&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot; id=&quot;m3&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Aa&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ba&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ca&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Da&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ea&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 2&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2A&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 3&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3A&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href='#0'&gt; Item 4&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; ``` ---" />
       <item value="WAVE Chrome" />
       <item value="NVDA screen reader for Windows - Free" />
@@ -26,31 +51,6 @@
       <item value="Users with motor disabilities may have trouble using a mouse, or don't use a mouse at all. For this reason, it's very important that your site is fully keyboard-accessible. Visually-impaired users also typically navigate websites using only their keyboard." />
       <item value="Motor" />
       <item value="Screen readers read the content of a web page out loud, or write it out as Braille, using certain cues from the HTML to infer meaning." />
-      <item value="Blind users consume the web by reading it using a" />
-      <item value="screen reader" />
-      <item value="Visually-impaired users may have low vision or be completely blind. For low vision users, proper typographic contrast is important, both size and color. Foreground colors should stand out from background colors. You can use tools to calculate the contrast ratio of your foreground and background colors. The contrast ratio should at least be 1:4.5 for normal text and 3:1 for large text." />
-      <item value="Visual" />
-      <item value="Types of Disabilities" />
-      <item value="Make everything usable on a keyboard and mouse." />
-      <item value="Lucky for you, all of our components work with keyboards, mice, and touch screens out of the box." />
-      <item value="Don't rely on purely visual cues." />
-      <item value="The content of a page should make sense even if page is being read to the user, or if the user is colorblind and can't make use of color-based labeling." />
-      <item value="Label everything." />
-      <item value="Use the `alt` attribute on all images to describe what they are." />
-      <item value="to hide labels visually while maintaining accessibility." />
-      <item value="visibility classes" />
-      <item value="If a control or form element has no text label, add one. You can use the" />
-      <item value="Structure your document properly." />
-      <item value="Use the right HTML tags for the job when marking up navigation, lists, links, controls, and so on." />
-      <item value="Basic Principles" />
-      <item value="conversation on GitHub" />
-      <item value="Care about accessibility or want to contribute? Submit a Pull Request or get into the" />
-      <item value="In addition to the accessibility features built into Foundation's components, be sure to follow best practices for making your site more accessible." />
-      <item value="Here are some general guidelines to keep in mind as you make your pages accessible." />
-      <item value="Foundation for Sites is a fully-accessible framework." />
-      <item value="Our plugins use a number of handy ECMAScript 5 features that aren't supported in IE8." />
-      <item value="Because the framework is written mobile-first, browsers that don't support media queries will display the mobile styles of the site." />
-      <item value="gutters" />
     </histories>
   </component>
 </application>
