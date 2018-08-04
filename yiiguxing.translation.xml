@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Know that they all require `foundation.core.js` to be loaded *first*. Some plugins also require specific utility libraries that ship with Foundation&amp;mdash;refer to a plugin's documentation to find out which plugins require what, and see the [JavaScript Utilities](javascript-utilities.html) page for more information." />
+      <item value="You can import in your HTML the complete Foundation library `foundation.min.js` like above, but also each plugin individually." />
+      <item value="Import in HTML" />
+      <item value="Once you have the files, add links to jQuery and Foundation as `&lt;script&gt;` tags at the bottom of your page, just before the closing `&lt;body&gt;` tag." />
+      <item value="You can get the Foundation JavaScript files from a ZIP download, package manager, or CDN. Check out the [Installation](installation.html) page to learn more." />
+      <item value="Foundation JavaScript files from a ZIP download, package manager, or CDN. Check out the [Installation](installation.html) page to learn more." />
+      <item value="Our JavaScript is easy to set up and only requires jQuery to get going." />
       <item value="Removes all false and null values from `$list`." />
       <item value="purge" />
       <item value="Returns whether `$list` contains `$value`." />
@@ -44,12 +51,6 @@
       <item value="of any component that is part of an Angular module" />
       <item value="Specifies a list of directives/pipes/modules that can be used within the template" />
       <item value="This can also contain" />
-      <item value="should be available to templates in this module." />
-      <item value="Specifies a list of modules whose exported directives/pipes" />
-      <item value="Specifies a list of directives/pipes that belong to this module" />
-      <item value="Here is an example of a class that can be injected" />
-      <item value="Defines the set of injectable objects that are available in the injector * of this module." />
-      <item value="example of a class that can be inject" />
     </histories>
   </component>
 </application>
