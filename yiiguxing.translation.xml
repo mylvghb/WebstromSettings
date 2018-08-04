@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="## Drilldown Menu &lt;div class=&quot;docs-codepen-container&quot; data-ks-codepen&gt; &lt;a class=&quot;codepen-logo-link&quot; href=&quot;https://codepen.io/IamManchanda/pen/mmLrZz?editors=1000&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;{{root}}assets/img/logos/edit-in-browser.svg&quot; class=&quot;&quot; height=&quot;&quot; width=&quot;&quot; alt=&quot;edit on codepen button&quot;&gt;&lt;/a&gt; &lt;/div&gt; ```html_example &lt;ul class=&quot;vertical menu&quot; data-drilldown style=&quot;width: 200px&quot; id=&quot;m1&quot;&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 1&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot; id=&quot;m2&quot;&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 1A&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot; id=&quot;m3&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Aa&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ba&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ca&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Da&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1Ea&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 1E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 2&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2A&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 2E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;#0&quot;&gt;Item 3&lt;/a&gt; &lt;ul class=&quot;vertical menu&quot;&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3A&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3B&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3C&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3D&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#0&quot;&gt;Item 3E&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href='#0'&gt; Item 4&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; ``` ---" />
       <item value="WAVE Chrome" />
       <item value="NVDA screen reader for Windows - Free" />
       <item value="JAWS screen reader for Windows" />
@@ -50,7 +51,6 @@
       <item value="Our plugins use a number of handy ECMAScript 5 features that aren't supported in IE8." />
       <item value="Because the framework is written mobile-first, browsers that don't support media queries will display the mobile styles of the site." />
       <item value="gutters" />
-      <item value="to apply gutters to columns, but this property isn't supported in IE8." />
     </histories>
   </component>
 </application>
