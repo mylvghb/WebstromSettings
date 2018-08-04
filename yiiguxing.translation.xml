@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="screen reader" />
+      <item value="Blind users consume the web by reading it using a" />
+      <item value="Visually-impaired users may have low vision or be completely blind. For low vision users, proper typographic contrast is important, both size and color. Foreground colors should stand out from background colors. You can use tools to calculate the contrast ratio of your foreground and background colors. The contrast ratio should at least be 1:4.5 for normal text and 3:1 for large text." />
+      <item value="Visual" />
+      <item value="Types of Disabilities" />
+      <item value="Make everything usable on a keyboard and mouse." />
+      <item value="Lucky for you, all of our components work with keyboards, mice, and touch screens out of the box." />
+      <item value="Don't rely on purely visual cues." />
+      <item value="The content of a page should make sense even if page is being read to the user, or if the user is colorblind and can't make use of color-based labeling." />
+      <item value="Label everything." />
+      <item value="Use the `alt` attribute on all images to describe what they are." />
+      <item value="to hide labels visually while maintaining accessibility." />
+      <item value="visibility classes" />
+      <item value="If a control or form element has no text label, add one. You can use the" />
+      <item value="Structure your document properly." />
+      <item value="Use the right HTML tags for the job when marking up navigation, lists, links, controls, and so on." />
+      <item value="Basic Principles" />
+      <item value="conversation on GitHub" />
+      <item value="Care about accessibility or want to contribute? Submit a Pull Request or get into the" />
+      <item value="In addition to the accessibility features built into Foundation's components, be sure to follow best practices for making your site more accessible." />
+      <item value="Here are some general guidelines to keep in mind as you make your pages accessible." />
+      <item value="Foundation for Sites is a fully-accessible framework." />
       <item value="Our plugins use a number of handy ECMAScript 5 features that aren't supported in IE8." />
       <item value="Because the framework is written mobile-first, browsers that don't support media queries will display the mobile styles of the site." />
       <item value="gutters" />
@@ -29,28 +51,6 @@
       <item value="Setup" />
       <item value="Kitchen Sink" />
       <item value="Accessibility" />
-      <item value="Compatibility" />
-      <item value="changelog" />
-      <item value="教程" />
-      <item value="Tutorials" />
-      <item value="via" />
-      <item value="All about the ZURB Template" />
-      <item value="Overview of Foundation's ZURB Stack and File Structure" />
-      <item value="Does" />
-      <item value="What the ZURB Stack Does" />
-      <item value="Style Sherpa has a dedicated page here in the docs that explains its various features. **[Learn more about Style Sherpa.](style-sherpa.html)**" />
-      <item value="Under `src/styleguide` are two files to create a style guide for your project. The style guide is generated using Style Sherpa, a small plugin created by ZURB." />
-      <item value="Creation" />
-      <item value="Style Guide Creation" />
-      <item value="The template creates a [BrowserSync](http://www.browsersync.io/) server, which is at `http://localhost:8000`. Load this URL to see your compiled templates. While the server is running, any time you save a file, any pages you have open will automatically refresh, allowing you to see changes in real-time as you work." />
-      <item value="Browser Sync" />
-      <item value="By default, all images are copied as-is from `assets/img` to your `dist` folder. When building for production, images are run through [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) for compression. The plugin supports JPEG, PNG, SVG, and GIF files." />
-      <item value="Compression" />
-      <item value="Beginner’s guide to webpack" />
-      <item value="What are ES6 imports" />
-      <item value="it manages all assets and dependencies for you and compiles them into one single file. If you're unfamiliar with imports or module bundling, check out:" />
-      <item value="The whole bundling process is handled by" />
-      <item value="A source map is created that maps back to the original files. By default, the bundled `app.js` is uncompressed. When building for production, the file is run through [UglifyJS](https://github.com/mishoo/UglifyJS) for compression." />
     </histories>
   </component>
 </application>
