@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Global font weight used for normal type." />
+      <item value="Global value used for margin on components." />
+      <item value="Set to `true` to enable antialiased type, using the `-webkit-font-smoothing` and `-moz-osx-font-smoothing` CSS properties." />
       <item value="Color used for light gray UI items." />
       <item value="Colors used for buttons, callouts, links, etc. There must always be a color called `primary`." />
       <item value="Default line height for all type. `$global-lineheight` is 24px while `$global-font-size` is 16px" />
@@ -48,9 +51,6 @@
       <item value="More complex components like menus, tabs, or sliders can also typically be used with arrow keys, not just the &lt;kbd&gt;tab&lt;/kbd&gt; keys. All of our JavaScript plugins provide advanced keyboard support by default." />
       <item value="When using only the keyboard, the &lt;kbd&gt;tab&lt;/kbd&gt; key is the primary way to navigate through a page. However, most screen readers include many shortcut keys to skip around a page. For example, a screen reader can read every heading on a page, or every link, making it easier to find the right content on the page." />
       <item value="When using only the keyboard, the" />
-      <item value="Users with motor disabilities may have trouble using a mouse, or don't use a mouse at all. For this reason, it's very important that your site is fully keyboard-accessible. Visually-impaired users also typically navigate websites using only their keyboard." />
-      <item value="Motor" />
-      <item value="Screen readers read the content of a web page out loud, or write it out as Braille, using certain cues from the HTML to infer meaning." />
     </histories>
   </component>
 </application>
