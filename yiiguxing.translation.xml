@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Global tolerance for color pick contrast." />
+      <item value="Internal variables used for text direction" />
+      <item value="button cursor's value, `auto` by default" />
+      <item value="Enabled responsive breakpoints for prototypes if applicable" />
+      <item value="Enables flexbox for components that support it." />
+      <item value="Sets the text direction of the CSS. Can be either `ltr` or `rtl`." />
+      <item value="Global value used for all menu styles. Nested margin for submenu." />
+      <item value="Global value used for all menu styles. Can be overwritten at individual menu component level." />
+      <item value="Global value used for all elements that have a border radius." />
+      <item value="Global font weight used for bold type." />
       <item value="Global font weight used for normal type." />
       <item value="Global value used for margin on components." />
       <item value="Set to `true` to enable antialiased type, using the `-webkit-font-smoothing` and `-moz-osx-font-smoothing` CSS properties." />
@@ -41,16 +51,6 @@
       <item value="Accessibility Checklist" />
       <item value="certification and training" />
       <item value="Section 508 government requirements" />
-      <item value="Introduction to Accessibility" />
-      <item value="If you're using the Sass version of Foundation, you can use this mixin to enable the feature on your own components:" />
-      <item value="Foundation's CSS makes use of the library [what-input](https://github.com/ten1seven/what-input), which can detect the user's current input device and adjust CSS accordingly. We use it to disable outlines for mouse users, but not keyboard users, who need the outline to know what element on the page has focus." />
-      <item value="All of Foundation's components are keyboard-accessible and screen reader-friendly. All of our code examples include the required accessibility hooks, but there may be instances where you, as the developer, need to fine-tune the specifics of how those hooks are used. Our JavaScript plugins will automatically add many required attributes to the HTML for you. Refer to each component's documentation to learn how to ensure your markup is screen reader-friendly." />
-      <item value="Foundation and Accessibility" />
-      <item value="If your site has video, provide captions so that users who are deaf or hard-of-hearing can properly view the content." />
-      <item value="Auditory" />
-      <item value="More complex components like menus, tabs, or sliders can also typically be used with arrow keys, not just the &lt;kbd&gt;tab&lt;/kbd&gt; keys. All of our JavaScript plugins provide advanced keyboard support by default." />
-      <item value="When using only the keyboard, the &lt;kbd&gt;tab&lt;/kbd&gt; key is the primary way to navigate through a page. However, most screen readers include many shortcut keys to skip around a page. For example, a screen reader can read every heading on a page, or every link, making it easier to find the right content on the page." />
-      <item value="When using only the keyboard, the" />
     </histories>
   </component>
 </application>
