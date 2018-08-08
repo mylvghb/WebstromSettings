@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assets" />
       <item value="Compressed CSS with right-to-left reading direction" />
       <item value="Know that they all require `foundation.core.js` to be loaded *first*. Some plugins also require specific utility libraries that ship with Foundation&amp;mdash;refer to a plugin's documentation to find out which plugins require what, and see the [JavaScript Utilities](javascript-utilities.html) page for more information." />
       <item value="You can import in your HTML the complete Foundation library `foundation.min.js` like above, but also each plugin individually." />
@@ -50,7 +51,6 @@
       <item value="Specifies a list of components that should be compiled when this module is defined." />
       <item value="that imports this Angular module." />
       <item value="of any component that is part of an Angular module" />
-      <item value="Specifies a list of directives/pipes/modules that can be used within the template" />
     </histories>
   </component>
 </application>
