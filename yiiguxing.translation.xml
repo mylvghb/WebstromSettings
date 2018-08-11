@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alternative" />
       <item value="expand" />
       <item value="The media query helper broadcasts an event on the window every time the breakpoint changes. We use this internally with plugins like Interchange to detect a shift in breakpoint. You can also subscribe to the event yourself." />
       <item value="Watching for Breakpoint Changes" />
@@ -50,7 +51,6 @@
       <item value="This will execute your callback function after all the images in your jQuery collection have loaded." />
       <item value="Similar to `setInterval`, except you can pause and resume where you left off." />
       <item value="When the animation is complete, your jQuery element will fire `finished.zf.animate`." />
-      <item value="is a simple helper function for utilizing browsers' `requestAnimationFrame` method for hardware acceleration. Invoke like so:" />
     </histories>
   </component>
 </application>
