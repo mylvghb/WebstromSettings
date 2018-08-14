@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="will open a Reveal modal with id `reveal`" />
+      <item value="this will include every plugin and utility required by Foundation" />
       <item value="alternative" />
       <item value="expand" />
       <item value="The media query helper broadcasts an event on the window every time the breakpoint changes. We use this internally with plugins like Interchange to detect a shift in breakpoint. You can also subscribe to the event yourself." />
@@ -49,8 +51,6 @@
       <item value="Provides a number of event listeners and triggers your script can hook into. Most are self-explanatory, and used in many Foundation plugins." />
       <item value="Allows you to add `swipe*` and pseudo-drag events to elements." />
       <item value="This will execute your callback function after all the images in your jQuery collection have loaded." />
-      <item value="Similar to `setInterval`, except you can pause and resume where you left off." />
-      <item value="When the animation is complete, your jQuery element will fire `finished.zf.animate`." />
     </histories>
   </component>
 </application>
