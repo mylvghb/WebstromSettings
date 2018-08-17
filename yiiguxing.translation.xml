@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There are times when you won't want each media query to be collapsed. In this case, use the media query size you want and collapse and add that to your grid element. Example shows gutters at small and no gutters on medium and up." />
+      <item value="The `.[size]-[gutter-type]-collapse` class lets you remove cell gutters." />
+      <item value="To switch back to the auto behavior from a percentage or shrink behavior, use the classes `.[size]-auto` or `.[size]-shrink`. In the below example, the cells stack on small screens, and become even-width on large screens." />
+      <item value="Responsive Adjustments" />
+      <item value="A cell can also be made to *shrink*, by adding the `.shrink` or `.[size]-shrink` class. This means it will only take up the space its contents need." />
+      <item value="Multiple expanding cells will share the leftover space equally." />
+      <item value="If the class `.auto` or `.[size]-auto` is added to the cell, it will take up the remaining space." />
+      <item value="The best way to do this is:&amp;nbsp; `body {overflow-x: hidden;}`" />
+      <item value="Please note that when you are using `grid-margin-x` on a `grid-container` with `full` class you will also need to hide the horizontal overflow in order for this to work correctly if your content is going to touch the sides of the viewport." />
+      <item value="To stretch the content to the full width of the available space and remove grid container padding, simply add the class `full` to your `grid-container`. Note that this variation is primarily for use for the `grid-margin-x` - it works with `grid-padding-x` too, but will work the same as `.grid-container.fluid`." />
+      <item value="Grid Container Full" />
+      <item value="To stretch the content to the full width of the available space, simply add the class `fluid` to your `grid-container`." />
+      <item value="The grid defaults to the full width of the available space. To contain it use the `grid-container` class. The container will be centered and have a max-width equal to your `$grid-container` setting (1200px by default), along with padding on the left/right equal to half your `$grid-container-padding` setting." />
+      <item value="To define a grid type, simply set `.grid-margin-x` or `.grid-padding-x` on the grid." />
+      <item value="The defining feature of the XY grid is the ability to use margin AND padding grids in harmony." />
+      <item value="The defining feature of the XY grid is the ability to use margin AND padding grids in harmony. To define a grid type, simply set `.grid-margin-x` or `.grid-padding-x` on the grid." />
+      <item value="Watch this part in video" />
       <item value="Without [defining a gutter type](#gutters) the cells will simply split up the space without any gutters." />
       <item value="The structure of XY grid uses `.grid-x`, `.grid-y`, and `.cell` as its base. Without [defining a gutter type](#gutters) the cells will simply split up the space without any gutters." />
       <item value="Basics" />
@@ -34,23 +51,6 @@
       <item value="The functionality of the `breakpoint()` mixin comes from an internal function, also called `breakpoint()`. If you want to write your own media queries, you can use the `breakpoint()` function to access the logic of the mixin directly." />
       <item value="Lastly, there are three special media queries that are not width-based: `portrait`, `landscape`, and `retina`. Using these keywords with the `breakpoint()` mixin will output a media query for device orientation or pixel density, rather than screen width." />
       <item value="t's also possible to pass in custom values. You can enter a pixel, rem, or em value&amp;mdash;all values are converted to em at the end." />
-      <item value="The behavior of the media query can be changed by adding the keyword `down` or `only` after the breakpoint value, separated by a space." />
-      <item value="To use the mixin, call it with `@include`, and then include the CSS content you want inside the curly braces." />
-      <item value="Our `breakpoint()` mixin makes it easy to write media queries. You can use the named breakpoints, or a custom pixel, rem, or em value." />
-      <item value="The Breakpoint Mixin" />
-      <item value="For example, to get `.xlarge` classes in your CSS, for use in the grid, Menu, and more, just add it to the end of the list:" />
-      <item value="You can change that by modifying the `$breakpoint-classes` variable in your settings file. This is a list of breakpoint names. Adding or removing names from the list will change the CSS class output. It looks like this by default:" />
-      <item value="Changing the widths of any of the breakpoints is as easy as changing the pixel values in this map. Note that here there are two extra breakpoints: `xlarge` and `xxlarge`. We don't use these for any components, and also don't output any CSS classes that use them by default." />
-      <item value="Even though the above values are in pixels, they're converted to ems at the end for use in media queries." />
-      <item value="If you're using the Sass version of Foundation, the default breakpoints can be changed. The names of the breakpoints, and their widths, are stored in a `$breakpoints` variable in the settings file." />
-      <item value="Changing the Breakpoints" />
-      <item value="With this:" />
-      <item value="to upgrade your existing media queries, replace rulesets like this:" />
-      <item value="In Foundation 5, breakpoints were accessed using a series of Sass variables named `$small-up`, `$small-only`, `$medium-only`, and so on. In Foundation 6, this method of writing media queries has been replaced with a dedicated [breakpoint mixin](#the-breakpoint-mixin), described below. **The legacy variables will be removed in Foundation 6.3.**" />
-      <item value="Upgrading from Foundation 5" />
-      <item value="If you're using the CSS version of Foundation, use these media queries to imitate the three core breakpoints:" />
-      <item value="Many components can be modified at different screen sizes using special *breakpoint classes*. The grid is the most obvious example. In the code below, the left-hand column is six columns wide on small screens, hence `.small-6`. On medium-sized screens, the class `.medium-4` overrides the small style, changing the column to be four wide." />
-      <item value="any screen 1024 pixels or wider." />
     </histories>
   </component>
 </application>
