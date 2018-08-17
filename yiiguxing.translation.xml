@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Push and pull are a bit of a hack solution and was only necessary for Float based grids. But for flexbox, this hack is not needed as [source ordering](flexbox-utilities.html#source-ordering) does this with ease." />
+      <item value="Looking for Push/Pull" />
+      <item value="Looking for Push/Pull?" />
+      <item value="This example uses padding grid but this can be used with margin grid too." />
+      <item value="To define cell widths within a direction-level, instead of the individual cell level, add the class `.[size]-up-[n]` to a `grid-x` or `grid-y`, where `[n]` is the number of cells to display per direction, and `[size]` is the breakpoint at which to apply the effect." />
+      <item value="Block Grids" />
+      <item value="Offsets work by applying `margin-left` (or `margin-top` for a vertical grid) to a grid." />
       <item value="There are times when you won't want each media query to be collapsed. In this case, use the media query size you want and collapse and add that to your grid element. Example shows gutters at small and no gutters on medium and up." />
       <item value="The `.[size]-[gutter-type]-collapse` class lets you remove cell gutters." />
       <item value="To switch back to the auto behavior from a percentage or shrink behavior, use the classes `.[size]-auto` or `.[size]-shrink`. In the below example, the cells stack on small screens, and become even-width on large screens." />
@@ -44,13 +51,6 @@
       <item value="To see if the screen is currently a certain breakpoint, use `MediaQuery.is`." />
       <item value="To see if the screen is currently a certain breakpoint or larger, use `MediaQuery.atLeast`." />
       <item value="Get the name of the current breakpoint with `MediaQuery.current`." />
-      <item value="The MediaQuery utility uses the Sass breakpoint settings and requires the Foundation CSS to be imported. For Sass users, you need to include either `foundation-everything()` or `foundation-global-styles()`." />
-      <item value="The Foundation JavaScript includes a set of helper functions for working with media queries. They're all on the `Foundation.MediaQuery` object." />
-      <item value="Working with Media Queries" />
-      <item value="This can be used to combine multiple media queries together." />
-      <item value="The functionality of the `breakpoint()` mixin comes from an internal function, also called `breakpoint()`. If you want to write your own media queries, you can use the `breakpoint()` function to access the logic of the mixin directly." />
-      <item value="Lastly, there are three special media queries that are not width-based: `portrait`, `landscape`, and `retina`. Using these keywords with the `breakpoint()` mixin will output a media query for device orientation or pixel density, rather than screen width." />
-      <item value="t's also possible to pass in custom values. You can enter a pixel, rem, or em value&amp;mdash;all values are converted to em at the end." />
     </histories>
   </component>
 </application>
