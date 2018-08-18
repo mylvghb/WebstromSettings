@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use the `xy-gutters()` mixin to add gutters to an item. The `xy-cell` mixin used this to output gutters, but you can use this to add responsive gutters to anything you like. This is especially powerful as you can specify where you want the gutters, like so:" />
+      <item value="Use the `xy-grid()` mixin to create a grid." />
+      <item value="Use the `xy-grid-container()` mixin to create a grid container. This contains the grid to the width specified in `$grid-container`." />
+      <item value="XY grid CSS is generated with a powerful set of Sass mixins, which you can use in your own code to build a semantic grid." />
+      <item value="Building Semantically" />
+      <item value="Watch this part in video" />
+      <item value="Here's an example of what you can do:" />
+      <item value="Please note that to use `.grid-margin-x` or `.grid-margin-y` with `.grid-frame` you need to hide the overflow on the body like so: `body {overflow: hidden;}`. However, take care not to unintentionally hide overflow body content on small screens when using `.medium-grid-frame`." />
+      <item value="To start, add `.grid-frame` to the grid. This sets the grid to be 100vh (the full height of the browser window)." />
+      <item value="The XY grid incorporates the grid frame from Foundation for Apps plus many other useful features." />
+      <item value="Please note for vertical grids to work, the grid needs a height. You can also use [grid frame](#grid-frame) to create a 100 vertical height grid (or 100% height if nested)." />
+      <item value="You can also apply margin or padding with `.grid-margin-y` and `.grid-padding-y` to apply spacing to the top and bottom of cells." />
+      <item value="The internal cells will shift automatically to provide spacing vertically rather than horizontally." />
+      <item value="The XY grid also supports vertical grids. Simply apply `.grid-y` instead of `.grid-x`." />
       <item value="Push and pull are a bit of a hack solution and was only necessary for Float based grids. But for flexbox, this hack is not needed as [source ordering](flexbox-utilities.html#source-ordering) does this with ease." />
       <item value="Looking for Push/Pull" />
       <item value="Looking for Push/Pull?" />
@@ -24,7 +38,6 @@
       <item value="To define a grid type, simply set `.grid-margin-x` or `.grid-padding-x` on the grid." />
       <item value="The defining feature of the XY grid is the ability to use margin AND padding grids in harmony." />
       <item value="The defining feature of the XY grid is the ability to use margin AND padding grids in harmony. To define a grid type, simply set `.grid-margin-x` or `.grid-padding-x` on the grid." />
-      <item value="Watch this part in video" />
       <item value="Without [defining a gutter type](#gutters) the cells will simply split up the space without any gutters." />
       <item value="The structure of XY grid uses `.grid-x`, `.grid-y`, and `.cell` as its base. Without [defining a gutter type](#gutters) the cells will simply split up the space without any gutters." />
       <item value="Basics" />
@@ -38,19 +51,6 @@
       <item value="The XY grid works very similarly to the standard float grid, but includes a number of useful features only possible with Flexbox, like horizontal and vertical alignment, automatic sizing and a full vertical grid." />
       <item value="Grid Basics" />
       <item value="Don’t miss out on the upcoming Foundation trainings" />
-      <item value="The XY Grid is a huge advancement in Grids. Stay up-to-date with all the new features in Foundation 6.4 with our online webinar training. You’ll come away knowing the ins and outs of the XY Grid to create complex layouts faster and with less code. Not to mention all the useful UI components and Foundation JavaScript you’ll learn. You’ll make your coworkers jealous." />
-      <item value="huge advancement" />
-      <item value="A fully reworked new grid system in v6.4 which has all the variety inbuilt in the form of multiple grid types which includes margin grid, padding grid, frame grid, block grid and vertical grid." />
-      <item value="will open a Reveal modal with id `reveal`" />
-      <item value="this will include every plugin and utility required by Foundation" />
-      <item value="alternative" />
-      <item value="expand" />
-      <item value="The media query helper broadcasts an event on the window every time the breakpoint changes. We use this internally with plugins like Interchange to detect a shift in breakpoint. You can also subscribe to the event yourself." />
-      <item value="Watching for Breakpoint Changes" />
-      <item value="To get the media query of a breakpoint, use `MediaQuery.get`." />
-      <item value="To see if the screen is currently a certain breakpoint, use `MediaQuery.is`." />
-      <item value="To see if the screen is currently a certain breakpoint or larger, use `MediaQuery.atLeast`." />
-      <item value="Get the name of the current breakpoint with `MediaQuery.current`." />
     </histories>
   </component>
 </application>
