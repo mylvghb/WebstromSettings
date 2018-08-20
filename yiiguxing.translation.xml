@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Class Applier" />
       <item value="Watch this part in video" />
       <item value="Center your columns by adding a class of `.small-centered` to your column. Large will inherit small centering by default, but you can also center solely on large by applying a `.large-centered` class. To uncenter on large screens, use `.large-uncentered`." />
       <item value="Centered Columns" />
@@ -50,7 +51,6 @@
       <item value="Custom Block Grid" />
       <item value="Refer to the Sass documentation below to learn how each mixin works and the available arguments." />
       <item value="Pair `xy-cell` with the `breakpoint()` mixin to make your grid responsive." />
-      <item value="The cell size calculator can also be accessed as a function. This gives you the percentage value, without any of the grid cell CSS." />
     </histories>
   </component>
 </application>
