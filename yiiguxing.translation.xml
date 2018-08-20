@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Class Applier" />
+      <item value="Block grids are a shorthand way to create equally-sized columns. Add a class of the format `.[size]-up-[n]` to change the number of columns within the row. By default, the max number of columns you can use with block grid are 8. Adding the `.column-block` class to columns will apply a bottom margin equal to the width of gutters." />
       <item value="Watch this part in video" />
+      <item value="Using these source ordering classes, you can shift columns around between our breakpoints. This means if you place sub-navigation below main content on small displays, you have the option to position the sub-navigation on either the left or right of the page for large displays. Prefix push/pull with the size of the device you want to apply the styles to. `.medium-push-#`, `.large-push-#` is the syntax you'll use. Use the number 0 instead to reset a push/pull, such as `.medium-push-0` or `.large-pull-0`." />
+      <item value="Source Ordering" />
+      <item value="Class Applier" />
       <item value="Center your columns by adding a class of `.small-centered` to your column. Large will inherit small centering by default, but you can also center solely on large by applying a `.large-centered` class. To uncenter on large screens, use `.large-uncentered`." />
       <item value="Centered Columns" />
       <item value="Scale the browser down to a medium size to see the difference." />
@@ -48,9 +51,6 @@
       <item value="number of columns" />
       <item value="By default the mixin takes 2 parameters:" />
       <item value="Use the `xy-grid-layout()` mixin to create your own block grid." />
-      <item value="Custom Block Grid" />
-      <item value="Refer to the Sass documentation below to learn how each mixin works and the available arguments." />
-      <item value="Pair `xy-cell` with the `breakpoint()` mixin to make your grid responsive." />
     </histories>
   </component>
 </application>
