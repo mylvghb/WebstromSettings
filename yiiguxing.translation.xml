@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replaces `$old` by `$new` in `$list`." />
+      <item value="Removes value(s) `$value` from `$list`." />
+      <item value="Casts `$value` into a list." />
       <item value="Whether or not there are missing dependencies" />
       <item value="Checks whether `$functions` exist in global scope." />
       <item value="value to check" />
@@ -48,14 +51,11 @@
       <item value="The grid *gutter*&amp;mdash;the space between two columns in a row, and the space between the edge of a grid and the edge of the page&amp;mdash;is responsive, and becomes wider on larger screens." />
       <item value="In order to work around browsers' different rounding behaviors, Foundation will float the last column in a row to the right so the edge aligns. If your row doesn't have a count that adds up to 12 columns, you can tag the last column with a class of `.end` in order to override that behavior. Alternatively, you can set the `$grid-column-align-edge` variable to `false` to turn off this behavior entirely." />
       <item value="Incomplete Rows" />
-      <item value="Move blocks up to 11 columns to the right by using classes like `.large-offset-1` and `.small-offset-3`." />
-      <item value="You can nest the grids indefinitely, though at a certain point it will get absurd." />
-      <item value="Normally, a row is always 1200 pixels wide. Make a row completely fluid by adding the `.expanded` class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
