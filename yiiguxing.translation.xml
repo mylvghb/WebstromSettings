@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="value to check" />
+      <item value="Returns truthiness of `$value`." />
       <item value="slide-in-down" />
       <item value="slide" />
       <item value="That outputs this CSS:" />
@@ -49,13 +51,11 @@
       <item value="Normally, a row is always 1200 pixels wide. Make a row completely fluid by adding the `.expanded` class." />
       <item value="Column rows can use sizing classes like &lt;code&gt;.small-8&lt;/code&gt;, but only when used as a top-level container&amp;mdash;not when nested inside another row." />
       <item value="If you have just a single column, you can save some markup by combining the `.row` and `.column` classes together on the same element. You can still nest more grids inside this container like usual." />
-      <item value="Combined Column/Row" />
-      <item value="Medium sized screens will inherit styles from small, unless you specify a different layout using the medium grid classes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
