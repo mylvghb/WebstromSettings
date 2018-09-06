@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Whether or not there are missing dependencies" />
+      <item value="Checks whether `$functions` exist in global scope." />
       <item value="value to check" />
       <item value="Returns truthiness of `$value`." />
       <item value="slide-in-down" />
@@ -49,13 +51,11 @@
       <item value="Move blocks up to 11 columns to the right by using classes like `.large-offset-1` and `.small-offset-3`." />
       <item value="You can nest the grids indefinitely, though at a certain point it will get absurd." />
       <item value="Normally, a row is always 1200 pixels wide. Make a row completely fluid by adding the `.expanded` class." />
-      <item value="Column rows can use sizing classes like &lt;code&gt;.small-8&lt;/code&gt;, but only when used as a top-level container&amp;mdash;not when nested inside another row." />
-      <item value="If you have just a single column, you can save some markup by combining the `.row` and `.column` classes together on the same element. You can still nest more grids inside this container like usual." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
