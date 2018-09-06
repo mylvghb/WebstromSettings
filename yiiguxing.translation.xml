@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remove the gray background on active links in IE 10." />
+      <item value="Text-level semantics" />
+      <item value="Correct the odd `em` font sizing in all browsers." />
+      <item value="Correct the inheritance and scaling of font size in all browsers." />
+      <item value="Show the overflow in Edge and IE." />
+      <item value="Add the correct box sizing in Firefox." />
+      <item value="Grouping content" />
+      <item value="Correct the font size and margin on `h1` elements within `section` and `article` contexts in Chrome, Firefox, and Safari." />
+      <item value="// Correct the font size and margin on `h1` elements within `section` and // `article` contexts in Chrome, Firefox, and Safari." />
+      <item value="Sections" />
+      <item value="Prevent adjustments of font size after orientation changes in iOS." />
+      <item value="1. Correct the line height in all browsers." />
+      <item value="Correct the line height in all browsers." />
       <item value="Replaces `$old` by `$new` in `$list`." />
       <item value="Removes value(s) `$value` from `$list`." />
       <item value="Casts `$value` into a list." />
@@ -38,24 +51,11 @@
       <item value="Source Ordering" />
       <item value="Class Applier" />
       <item value="Center your columns by adding a class of `.small-centered` to your column. Large will inherit small centering by default, but you can also center solely on large by applying a `.large-centered` class. To uncenter on large screens, use `.large-uncentered`." />
-      <item value="Centered Columns" />
-      <item value="Scale the browser down to a medium size to see the difference." />
-      <item value="There are times when you won't want each media query to be collapsed or uncollapsed. In this case, use the media query size you want and collapse or uncollapse and add that to your row element. Example shows no gutter at small media size and then adds the gutter to columns at medium." />
-      <item value="The `.collapse` class lets you remove column gutters (padding)." />
-      <item value="Collapse/Uncollapse Rows" />
-      <item value="You can also explicitly set the gutter size for a particular grid row by adding the `.gutter-[size]` class. This is useful when your using responsive gutters but specific components need static gutters." />
-      <item value="If you prefer using one gutter size for every breakpoint, just use a single number for the `$grid-column-gutter` variable:" />
-      <item value="Static Gutters" />
-      <item value="To add more gutter definitions, add new lines to the map. The breakpoint names used here must match a breakpoint name in your project's `$breakpoints` map." />
-      <item value="If you're using the Sass version of Foundation, you can change these defaults by editing the `$grid-column-gutter` variable map:" />
-      <item value="The grid *gutter*&amp;mdash;the space between two columns in a row, and the space between the edge of a grid and the edge of the page&amp;mdash;is responsive, and becomes wider on larger screens." />
-      <item value="In order to work around browsers' different rounding behaviors, Foundation will float the last column in a row to the right so the edge aligns. If your row doesn't have a count that adds up to 12 columns, you can tag the last column with a class of `.end` in order to override that behavior. Alternatively, you can set the `$grid-column-align-edge` variable to `false` to turn off this behavior entirely." />
-      <item value="Incomplete Rows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
