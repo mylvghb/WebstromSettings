@@ -46,6 +46,10 @@
           <option name="url" value="https://gitee.com/lilanjun/gulp-learn.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/lilanjun/foundation-sites-basic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\study" />
