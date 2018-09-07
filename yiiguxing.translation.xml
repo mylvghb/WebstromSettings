@@ -1,7 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Using rem as base allows correct scaling" />
+      <item value="This is because 100% font size = 16px in most all browsers" />
+      <item value="If the base font size is a %, then multiply it by 16px" />
+      <item value="defer" />
+      <item value="The base value to use when calculating the `rem`. If you're using Foundation out of the box, this is 16px. If this parameter is `null`, the function will reference the `$global-font-size` variable as the base." />
+      <item value="One or more values to convert. Be sure to separate them with spaces and not commas. If you need to convert a comma-separated list, wrap the list in parentheses." />
+      <item value="Converts one or more pixel values into matching rem values." />
+      <item value="The same number, sans unit." />
+      <item value="Removes the unit (e.g. px, em, rem) from a value, returning the number only." />
+      <item value="denominator" />
+      <item value="Rounds a number down to the previous whole number." />
       <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
+      <item value="A percentage value for the height relative to the width of a responsive container." />
+      <item value="Ratio to use to calculate the height, formatted as `x by y`." />
+      <item value="Calculates the height as a percentage of the width for a given ratio." />
       <item value="The product of the exponentiation." />
       <item value="exponent" />
       <item value="Finds the greatest common divisor of two integers." />
@@ -37,25 +51,11 @@
       <item value="Embedded content" />
       <item value="Prevent `sub` and `sup` elements from affecting the line height in all browsers." />
       <item value="// Prevent `sub` and `sup` elements from affecting the line height in // all browsers." />
-      <item value="Prevent `sub` and `sup` elements from affecting the line height in" />
-      <item value="Add the correct font weight in Chrome, Edge, and Safari." />
-      <item value="Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari." />
-      <item value="Remove the bottom border in Chrome 57-" />
-      <item value="Remove the gray background on active links in IE 10." />
-      <item value="Text-level semantics" />
-      <item value="Correct the odd `em` font sizing in all browsers." />
-      <item value="Correct the inheritance and scaling of font size in all browsers." />
-      <item value="Show the overflow in Edge and IE." />
-      <item value="Add the correct box sizing in Firefox." />
-      <item value="Grouping content" />
-      <item value="Correct the font size and margin on `h1` elements within `section` and `article` contexts in Chrome, Firefox, and Safari." />
-      <item value="// Correct the font size and margin on `h1` elements within `section` and // `article` contexts in Chrome, Firefox, and Safari." />
-      <item value="Sections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
