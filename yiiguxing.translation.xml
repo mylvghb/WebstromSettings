@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assume that line-heights greater than 10 are meant to be absolute in 'px'" />
+      <item value="The font size to use to work out the line height - defaults to $global-font-size" />
+      <item value="Value to convert to a unitless line height" />
+      <item value="working out" />
+      <item value="Converts a pixel, percentage, rem or em value to a unitless value based on a given font size. Ideal for working out unitless line heights." />
+      <item value="Turn 0rem into 0" />
+      <item value="Calculate rem if units for $value is not rem or em" />
+      <item value="Transform em into rem if someone hands over 'em's" />
+      <item value="inspect" />
+      <item value="Return a string containing the value as its Sass representation." />
+      <item value="A number in rems, calculated based on the given value and the base pixel value. rem values are passed through as is." />
+      <item value="Base for pixel conversion." />
+      <item value="Pixel value to convert." />
+      <item value="By default, the base pixel value used to calculate the rem value is taken from the `$global-font-size` variable." />
+      <item value="*Any* value passed, regardless of unit, is assumed to be a pixel value." />
+      <item value="regardless of unit" />
+      <item value="*Any* value passed," />
+      <item value="*Any* value passed, regardless of unit, is assumed to be a pixel value. By default, the base pixel value used to calculate the rem value is taken from the `$global-font-size` variable." />
+      <item value="Converts a unitless, pixel, or rem value to em, for use in breakpoints." />
       <item value="Using rem as base allows correct scaling" />
       <item value="This is because 100% font size = 16px in most all browsers" />
       <item value="If the base font size is a %, then multiply it by 16px" />
@@ -32,30 +51,11 @@
       <item value="Correct the inability to style clickable types in iOS and Safari." />
       <item value="Remove the inner padding in Chrome and Safari on macOS." />
       <item value="Correct the outline style in Safari." />
-      <item value="Correct the odd appearance in Chrome and Safari." />
-      <item value="Correct the cursor style of increment and decrement buttons in Chrome." />
-      <item value="Remove the padding in IE 10." />
-      <item value="Add the correct box sizing in IE 10." />
-      <item value="Remove the default vertical scrollbar in IE 10+." />
-      <item value="Add the correct vertical alignment in Chrome, Firefox, and Opera." />
-      <item value="Remove the padding so developers are not caught out when they zero out `fieldset` elements in all browsers." />
-      <item value="Correct the color inheritance from `fieldset` elements in IE." />
-      <item value="Correct the text wrapping in Edge and IE." />
-      <item value="Correct the padding in Firefox." />
-      <item value="Restore the focus styles unset by the previous rule." />
-      <item value="Remove the inner border and padding in Firefox." />
-      <item value="Remove the inheritance of text transform in Edge, Firefox, and IE." />
-      <item value="Remove the margin in Firefox and Safari." />
-      <item value="Change the font styles in all browsers." />
-      <item value="Remove the border on images inside links in IE 10." />
-      <item value="Embedded content" />
-      <item value="Prevent `sub` and `sup` elements from affecting the line height in all browsers." />
-      <item value="// Prevent `sub` and `sup` elements from affecting the line height in // all browsers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
