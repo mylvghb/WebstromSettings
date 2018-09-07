@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The value found in the map." />
+      <item value="Keys to use when looking for a value." />
+      <item value="Map to pull a value from." />
+      <item value="Border component to extract." />
+      <item value="Border value to find a value in." />
+      <item value="Given border $val, find a specific element of the border, which is $elem. The possible values for $elem are width, style, and color." />
+      <item value="no matter how many values were passed in. Use this function if you need to know the specific side of a value, but don't know if the value is using a shorthand format." />
+      <item value="no matter how many values were passed in." />
+      <item value="Determine" />
+      <item value="A single value based on `$val` and `$side`." />
+      <item value="Side to return. Should be `top`, `right`, `bottom`, or `left`." />
+      <item value="Value to analyze. Should be a shorthand sizing property" />
+      <item value="shorthand sizing property" />
+      <item value="Value to analyze. Should be a shorthand sizing property, e.g. &quot;1em 2em 1em&quot;" />
+      <item value="Determine a top/right/bottom/right value on a padding, margin, etc. property, no matter how many values were passed in. Use this function if you need to know the specific side of a value, but don't know if the value is using a shorthand format." />
+      <item value="Determine if a value is not falsey, in CSS terms. Falsey values are `null`, `none`, `0` with any unit, or an empty list." />
       <item value="assume that line-heights greater than 10 are meant to be absolute in 'px'" />
       <item value="The font size to use to work out the line height - defaults to $global-font-size" />
       <item value="Value to convert to a unitless line height" />
@@ -35,27 +51,11 @@
       <item value="A percentage value for the height relative to the width of a responsive container." />
       <item value="Ratio to use to calculate the height, formatted as `x by y`." />
       <item value="Calculates the height as a percentage of the width for a given ratio." />
-      <item value="The product of the exponentiation." />
-      <item value="exponent" />
-      <item value="Finds the greatest common divisor of two integers." />
-      <item value="import your own `settings` here or" />
-      <item value="Foundation for Sites by ZURB" />
-      <item value="Changes the appearance of buttons and other controls to resemble native controls." />
-      <item value="This shorthand property specifies how an inline-level box is aligned within the line. Values are the same as for its longhand properties, see below." />
-      <item value="Add the correct display in IE 10." />
-      <item value="Add the correct display in IE 10+." />
-      <item value="Add the correct display in all browsers." />
-      <item value="Add the correct display in Edge, IE 10+, and Firefox." />
-      <item value="Interactive" />
-      <item value="Change font properties to `inherit` in Safari." />
-      <item value="Correct the inability to style clickable types in iOS and Safari." />
-      <item value="Remove the inner padding in Chrome and Safari on macOS." />
-      <item value="Correct the outline style in Safari." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
