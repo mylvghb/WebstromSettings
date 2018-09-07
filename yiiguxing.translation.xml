@@ -1,6 +1,43 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
+      <item value="The product of the exponentiation." />
+      <item value="exponent" />
+      <item value="Finds the greatest common divisor of two integers." />
+      <item value="import your own `settings` here or" />
+      <item value="Foundation for Sites by ZURB" />
+      <item value="Changes the appearance of buttons and other controls to resemble native controls." />
+      <item value="This shorthand property specifies how an inline-level box is aligned within the line. Values are the same as for its longhand properties, see below." />
+      <item value="Add the correct display in IE 10." />
+      <item value="Add the correct display in IE 10+." />
+      <item value="Add the correct display in all browsers." />
+      <item value="Add the correct display in Edge, IE 10+, and Firefox." />
+      <item value="Interactive" />
+      <item value="Change font properties to `inherit` in Safari." />
+      <item value="Correct the inability to style clickable types in iOS and Safari." />
+      <item value="Remove the inner padding in Chrome and Safari on macOS." />
+      <item value="Correct the outline style in Safari." />
+      <item value="Correct the odd appearance in Chrome and Safari." />
+      <item value="Correct the cursor style of increment and decrement buttons in Chrome." />
+      <item value="Remove the padding in IE 10." />
+      <item value="Add the correct box sizing in IE 10." />
+      <item value="Remove the default vertical scrollbar in IE 10+." />
+      <item value="Add the correct vertical alignment in Chrome, Firefox, and Opera." />
+      <item value="Remove the padding so developers are not caught out when they zero out `fieldset` elements in all browsers." />
+      <item value="Correct the color inheritance from `fieldset` elements in IE." />
+      <item value="Correct the text wrapping in Edge and IE." />
+      <item value="Correct the padding in Firefox." />
+      <item value="Restore the focus styles unset by the previous rule." />
+      <item value="Remove the inner border and padding in Firefox." />
+      <item value="Remove the inheritance of text transform in Edge, Firefox, and IE." />
+      <item value="Remove the margin in Firefox and Safari." />
+      <item value="Change the font styles in all browsers." />
+      <item value="Remove the border on images inside links in IE 10." />
+      <item value="Embedded content" />
+      <item value="Prevent `sub` and `sup` elements from affecting the line height in all browsers." />
+      <item value="// Prevent `sub` and `sup` elements from affecting the line height in // all browsers." />
+      <item value="Prevent `sub` and `sup` elements from affecting the line height in" />
       <item value="Add the correct font weight in Chrome, Edge, and Safari." />
       <item value="Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari." />
       <item value="Remove the bottom border in Chrome 57-" />
@@ -14,48 +51,12 @@
       <item value="Correct the font size and margin on `h1` elements within `section` and `article` contexts in Chrome, Firefox, and Safari." />
       <item value="// Correct the font size and margin on `h1` elements within `section` and // `article` contexts in Chrome, Firefox, and Safari." />
       <item value="Sections" />
-      <item value="Prevent adjustments of font size after orientation changes in iOS." />
-      <item value="1. Correct the line height in all browsers." />
-      <item value="Correct the line height in all browsers." />
-      <item value="Replaces `$old` by `$new` in `$list`." />
-      <item value="Removes value(s) `$value` from `$list`." />
-      <item value="Casts `$value` into a list." />
-      <item value="Whether or not there are missing dependencies" />
-      <item value="Checks whether `$functions` exist in global scope." />
-      <item value="value to check" />
-      <item value="Returns truthiness of `$value`." />
-      <item value="slide-in-down" />
-      <item value="slide" />
-      <item value="That outputs this CSS:" />
-      <item value="Here's an example:" />
-      <item value="This will then generate different paddings at different breakpoints. Alternatively supply a numeric value (without a unit type) to output a static rem value." />
-      <item value="The padding value can be set to `$grid-column-gutter` to use the values from that map." />
-      <item value="An optional padding value" />
-      <item value="The child element selector" />
-      <item value="Number of columns" />
-      <item value="By default the mixin takes 3 parameters:" />
-      <item value="Use the `grid-layout()` mixin to create your own block grid." />
-      <item value="Custom Block Grid" />
-      <item value="Refer to the Sass documentation below to learn how each mixin works." />
-      <item value="Every other grid feature, from sizing to offsets to source ordering, can also be accessed with a mixin. Pair them with the `breakpoint()` mixin to make your grid responsive." />
-      <item value="You can also temporarily change the grid context without outputting any row CSS, by using the `grid-context()` mixin." />
-      <item value="In this example, the grid is 16 columns instead of the normal 12. Any references to column math inside the mixin will use the new column count." />
-      <item value="By default, all grids use the number of columns set by the `$grid-column-count` variable. However, this can be selectively overridden within an instance of a row." />
-      <item value="Multiple Grids" />
-      <item value="To center a column semantically. Use ´grid-column-position(center);´." />
-      <item value="The grid column calculator can also be accessed as a function. This gives you the percentage value, without any of the grid column CSS." />
-      <item value="Use the `grid-column()` mixin to create a column. There are a number of ways to define the width of the column." />
-      <item value="Use the `grid-row()` mixin to create a row." />
-      <item value="Our grid CSS is generated with a powerful set of Sass mixins, which you can use in your own code to build a semantic grid." />
-      <item value="Building Semantically" />
-      <item value="Watch this part in video" />
-      <item value="Block grids are a shorthand way to create equally-sized columns. Add a class of the format `.[size]-up-[n]` to change the number of columns within the row. By default, the max number of columns you can use with block grid are 8. Adding the `.column-block` class to columns will apply a bottom margin equal to the width of gutters." />
-      <item value="Using these source ordering classes, you can shift columns around between our breakpoints. This means if you place sub-navigation below main content on small displays, you have the option to position the sub-navigation on either the left or right of the page for large displays. Prefix push/pull with the size of the device you want to apply the styles to. `.medium-push-#`, `.large-push-#` is the syntax you'll use. Use the number 0 instead to reset a push/pull, such as `.medium-push-0` or `.large-pull-0`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
   </component>
