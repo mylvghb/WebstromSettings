@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$demi" />
+      <item value="Returns the opposite direction of $dir" />
       <item value="Map to retrieve a value from." />
       <item value="Safely return a value from a map." />
       <item value="Depending on the flag, returns either $keys or $values or both." />
@@ -49,14 +51,13 @@
       <item value="The same number, sans unit." />
       <item value="Removes the unit (e.g. px, em, rem) from a value, returning the number only." />
       <item value="denominator" />
-      <item value="Rounds a number down to the previous whole number." />
-      <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="131" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
