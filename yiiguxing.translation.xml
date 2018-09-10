@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Map to retrieve a value from." />
+      <item value="Safely return a value from a map." />
+      <item value="Depending on the flag, returns either $keys or $values or both." />
+      <item value="Map to pull a value from." />
       <item value="The value found in the map." />
       <item value="Keys to use when looking for a value." />
-      <item value="Map to pull a value from." />
       <item value="Border component to extract." />
       <item value="Border value to find a value in." />
       <item value="Given border $val, find a specific element of the border, which is $elem. The possible values for $elem are width, style, and color." />
@@ -48,14 +51,11 @@
       <item value="denominator" />
       <item value="Rounds a number down to the previous whole number." />
       <item value="Handles decimal exponents by trying to convert them into a fraction and then use a nth-root-algorithm for parts of the calculation" />
-      <item value="A percentage value for the height relative to the width of a responsive container." />
-      <item value="Ratio to use to calculate the height, formatted as `x by y`." />
-      <item value="Calculates the height as a percentage of the width for a given ratio." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
