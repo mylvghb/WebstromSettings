@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Convers the breakpoints map to a URL-encoded string, like this: `key1=value1&amp;key2=value2`. The value is then dropped into the CSS for a special `&lt;meta&gt;` tag, which is read by the Foundation JavaScript. This is how we transfer values from Sass to JavaScript, so they can be defined in one place." />
-      <item value="If the breakpoint is &quot;0px and larger&quot;, outputs the content as-is. Otherwise, outputs the content wrapped in a media query." />
-      <item value="Breakpoint name, or px, rem, or em value to process." />
-      <item value="If an em value is passed, the value will be used as-is." />
-      <item value="If a rem value is passed, the unit will be changed to em." />
-      <item value="If a pixel value is passed, it will be converted to an em value using `$global-font-size` as the base." />
-      <item value="If a string is passed, the mixin will look for it in the `$breakpoints` map, and use a media query there." />
-      <item value="Wraps a media query around the content you put inside the mixin. This mixin accepts a number of values:" />
-      <item value="Map of font stacks to retrieve a list from." />
-      <item value="Return a font stack list from a map. Equivalent to `map-safe-get($name, $-zf-font-stack)`." />
-      <item value="`UP` RANGES USE THE FORMAT `(MIN-WIDTH: N)`" />
-      <item value="unless the function was called as &quot;small down&quot;, in which case it's just &quot;small only&quot;" />
-      <item value="Skip media query creation if input value is exactly &quot;0 down&quot;," />
-      <item value="`down` ranges use the format `(max-width: n)`" />
-      <item value="Only use &quot;max-width&quot; if there's a ceiling" />
-      <item value="Only add &quot;and&quot; to the media query if there's a ceiling" />
-      <item value="Only use &quot;min-width&quot; if the floor is greater than 0" />
-      <item value="Only named media queries can have an &quot;only&quot; range" />
-      <item value="`only` ranges use the format `(min-width: n) and (max-width: n)`" />
-      <item value="It's a numeric breakpoint that resolved to &quot;0 &quot; + anything" />
-      <item value="It's a named breakpoint that resolved to &quot;0 down&quot; or &quot;0 up&quot;" />
-      <item value="Conditions to skip media query creation" />
-      <item value="Use a precision under 1px to support browser zoom, but not to low to avoid rounding." />
-      <item value="Max value is 0.2px under the next breakpoint (0.02 / 16 = 0.00125)." />
-      <item value="ax value is 0.2px under the next breakpoint (0.02 / 16 = 0.00125)." />
-      <item value="Convert any pixel, rem, or unitless value to em" />
-      <item value="Try to pull a named breakpoint out of the $breakpoints map" />
-      <item value="Orientation media queries have a unique syntax" />
-      <item value="Is it a named media query?" />
-      <item value="Eventual output" />
-      <item value="Direction of media query" />
-      <item value="Direction of media query (up, down, or only)" />
-      <item value="Value for max-width media queries" />
-      <item value="Size or keyword" />
-      <item value="Generates a media query string matching the input value. Refer to the documentation for the `breakpoint()` mixin to see what the possible inputs are." />
-      <item value="All of the names in this list will be output as classes in your CSS, like `.small-12`, `.medium-6`, and so on. Each value in this list must also be in the `$breakpoints` map." />
-      <item value="The largest named breakpoint in which to include print as a media type" />
-      <item value="A list of named breakpoints. You can use these with the `breakpoint()` mixin to quickly create media queries." />
-      <item value="justify" />
-      <item value="zf-flex-justify" />
-      <item value="A modifier to be applied to each text input type (e.g. a class or a pseudo-class). Leave blank to ignore." />
-      <item value="A list of text input types to use. Leave blank to use all of them." />
-      <item value="Generates a selector with every text input type. You can also filter the list to only output a subset of those selectors." />
-      <item value="Transfers the colors in the `$foundation-palette` map into variables, such as `$primary-color` and `$secondary-color`. Call this mixin below the Global section of your settings file to properly migrate your codebase." />
-      <item value="color key from foundation-palette" />
-      <item value="Get color from foundation-palette" />
-      <item value="Threshold of lightness to check against." />
-      <item value="Amount to scale up or down." />
-      <item value="Color to scale." />
-      <item value="Scales a color to be darker if it's light, or lighter if it's dark. Use this function to tint a color appropriate to its lightness." />
+      <item value="noinspection" />
+      <item value="Annotation `parameter` is not allowed on comment from type `css` in `_unit.scss:20:25`." />
+      <item value="Map of breakpoints and values or single value to use." />
+      <item value="Single value, breakpoint name, or list of breakpoint names to use. &quot;auto&quot; by default." />
+      <item value="For &quot;auto&quot;, `$-zf-bp-value` is the corresponding breakpoint value in `$map` and is passed to `@content`, which is made responsive for each breakpoint of `$map`." />
+      <item value="For a breakpoint name, `$-zf-bp-value` is the corresponding breakpoint value in `$map`." />
+      <item value="For a single value, `$-zf-bp-value` is this value." />
+      <item value="Generate the `@content` passed to the mixin with a value `$-zf-bp-value` related to a breakpoint, depending on the `$name` parameter:" />
+      <item value="If `false`, the mixin will iterate over breakpoints without doing the media query itself. Useful for more complex media query generation as in the margin grid." />
+      <item value="If `false`, the mixin will skip the `small` breakpoint. Use this with components that don't prefix classes with `small-`, only `medium-` and up." />
+      <item value="Iterates through breakpoints defined in `$breakpoint-classes` and prints the CSS inside the mixin at each breakpoint's media query. Use this with the grid, or any other component that has responsive classes." />
+      <item value="Absolutely centers the element inside of its first non-static parent," />
+      <item value="Vertically centers the element inside of its first non-static parent," />
+      <item value="Reverses the CSS output created by the `element-invisible()` mixin." />
+      <item value="Hiding Content for Accessibility" />
+      <item value="Makes an element visually hidden, but still accessible to keyboards and assistive devices." />
+      <item value="Removes the focus ring around an element when a mouse input is detected." />
+      <item value="Maximum number of items to detect. The higher this number is, the more CSS that's required to cover each number of items." />
+      <item value="Adds CSS for a &quot;quantity query&quot; selector that automatically sizes elements based on how many there are inside a container." />
+      <item value="Applies the micro clearfix hack popularized by Nicolas Gallagher. Include this mixin on a container if its children are all floated, to give the container a proper height." />
+      <item value="Adds a downward-facing triangle as a background image to an element. The image is formatted as an SVG, making it easy to change the color. Because Internet Explorer doesn't support encoded SVGs as background images, a PNG fallback is also included." />
+      <item value="Spacing between bars is calculated based on the total height of the icon and the weight of each bar" />
+      <item value="box-shadow CSS output" />
+      <item value="Height of individual bars in the icon." />
+      <item value="Creates a menu icon with a set width, height, number of bars, and colors. The mixin uses the height of the icon and the weight of the bars to determine spacing. &lt;div class=&quot;docs-example-burger&quot;&gt;&lt;/div&gt;" />
+      <item value="Direction the triangle points. Can be `up`, `right`, `down`, or `left`." />
+      <item value="Width of the triangle." />
+      <item value="Creates a CSS triangle, which can be used for dropdown arrows, dropdown pips, and more. Use this mixin inside a `&amp;::before` or `&amp;::after` selector, to attach the triangle to an existing element." />
+      <item value="Side the shadow is supposed to appear. Can be `top`, `left`, `right` or `bottom`." />
+      <item value="Creates an inner box-shadow for only one side" />
+      <item value="Otherwise, find the next lowest breakpoint and return that value" />
+      <item value="Check if the breakpoint name exists in the local config map" />
+      <item value="Check if the breakpoint name exists globally" />
+      <item value="The corresponding breakpoint value." />
+      <item value="Breakpoint name to use." />
+      <item value="Responsive config map or single value." />
+      <item value="If the config is a map and does *not* have the breakpoint, the value matching the next lowest breakpoint in the config map is returned." />
+      <item value="If the config is a map and has the key `$value`, the exact breakpoint value is returned." />
+      <item value="If the config is a single value, return it regardless of `$value`." />
+      <item value="Get a value for a breakpoint from a responsive config map or single value." />
+      <item value="Return a list of our named breakpoints less than $key. Useful for dealing with" />
+      <item value="The list of breakpoints up to and. If $key is auto, returns breakpoints above the zero" />
+      <item value="Key to use as last breakpoint." />
+      <item value="Return a list of our named breakpoints less than $key. Useful for dealing with&#10;/// responsive gutters for the grid." />
+      <item value="If the Key Exists, Get the index of the key within the map and add 1 to it for the next breakpoint in the map" />
+      <item value="The value for the key after `$key`, if `$key` was found. If `$key` was not found, or `$key` was the last value in the map, returns `null`." />
+      <item value="Key to use as a starting point." />
+      <item value="Map to traverse." />
+      <item value="Find the next key in a map." />
+      <item value="A string containing the map's contents." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
