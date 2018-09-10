@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It's a numeric breakpoint that resolved to &quot;0 &quot; + anything" />
+      <item value="It's a named breakpoint that resolved to &quot;0 down&quot; or &quot;0 up&quot;" />
+      <item value="Conditions to skip media query creation" />
+      <item value="Use a precision under 1px to support browser zoom, but not to low to avoid rounding." />
+      <item value="Max value is 0.2px under the next breakpoint (0.02 / 16 = 0.00125)." />
+      <item value="ax value is 0.2px under the next breakpoint (0.02 / 16 = 0.00125)." />
+      <item value="Convert any pixel, rem, or unitless value to em" />
+      <item value="Try to pull a named breakpoint out of the $breakpoints map" />
+      <item value="Orientation media queries have a unique syntax" />
+      <item value="Is it a named media query?" />
+      <item value="Eventual output" />
+      <item value="Direction of media query" />
+      <item value="Direction of media query (up, down, or only)" />
+      <item value="Value for max-width media queries" />
+      <item value="Size or keyword" />
+      <item value="Breakpoint name, or px, rem, or em value to process." />
+      <item value="Generates a media query string matching the input value. Refer to the documentation for the `breakpoint()` mixin to see what the possible inputs are." />
+      <item value="All of the names in this list will be output as classes in your CSS, like `.small-12`, `.medium-6`, and so on. Each value in this list must also be in the `$breakpoints` map." />
+      <item value="The largest named breakpoint in which to include print as a media type" />
+      <item value="A list of named breakpoints. You can use these with the `breakpoint()` mixin to quickly create media queries." />
       <item value="justify" />
       <item value="zf-flex-justify" />
       <item value="A modifier to be applied to each text input type (e.g. a class or a pseudo-class). Leave blank to ignore." />
@@ -31,31 +51,11 @@
       <item value="The value found in the map." />
       <item value="Keys to use when looking for a value." />
       <item value="Border component to extract." />
-      <item value="Border value to find a value in." />
-      <item value="Given border $val, find a specific element of the border, which is $elem. The possible values for $elem are width, style, and color." />
-      <item value="no matter how many values were passed in. Use this function if you need to know the specific side of a value, but don't know if the value is using a shorthand format." />
-      <item value="no matter how many values were passed in." />
-      <item value="Determine" />
-      <item value="A single value based on `$val` and `$side`." />
-      <item value="Side to return. Should be `top`, `right`, `bottom`, or `left`." />
-      <item value="Value to analyze. Should be a shorthand sizing property" />
-      <item value="shorthand sizing property" />
-      <item value="Value to analyze. Should be a shorthand sizing property, e.g. &quot;1em 2em 1em&quot;" />
-      <item value="Determine a top/right/bottom/right value on a padding, margin, etc. property, no matter how many values were passed in. Use this function if you need to know the specific side of a value, but don't know if the value is using a shorthand format." />
-      <item value="Determine if a value is not falsey, in CSS terms. Falsey values are `null`, `none`, `0` with any unit, or an empty list." />
-      <item value="assume that line-heights greater than 10 are meant to be absolute in 'px'" />
-      <item value="The font size to use to work out the line height - defaults to $global-font-size" />
-      <item value="Value to convert to a unitless line height" />
-      <item value="working out" />
-      <item value="Converts a pixel, percentage, rem or em value to a unitless value based on a given font size. Ideal for working out unitless line heights." />
-      <item value="Turn 0rem into 0" />
-      <item value="Calculate rem if units for $value is not rem or em" />
-      <item value="Transform em into rem if someone hands over 'em's" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
