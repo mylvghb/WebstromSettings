@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strong" />
+      <item value="Emphasized" />
+      <item value="Note, that $header-sizes has been replaced with $header-styles. $header-sizes still works, but it is going to be depreciated." />
       <item value="Adds error styles to a form element, using the values in the settings file." />
       <item value="Lightness level of the background color." />
       <item value="Styles the background and border of an input field to have an error state." />
@@ -48,14 +51,11 @@
       <item value="Creates an inner box-shadow for only one side" />
       <item value="Otherwise, find the next lowest breakpoint and return that value" />
       <item value="Check if the breakpoint name exists in the local config map" />
-      <item value="Check if the breakpoint name exists globally" />
-      <item value="The corresponding breakpoint value." />
-      <item value="Breakpoint name to use." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
