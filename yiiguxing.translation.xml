@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If `false`, selectors inside this mixin will nest inside the parent selector." />
+      <item value="Change the behavior of columns defined inside this mixin to use a different column count." />
+      <item value="edge" />
+      <item value="If `true`, the last column in a row will align to the opposite edge of the row." />
+      <item value="opposite" />
+      <item value="The default column count of a grid. Changing this value affects the logic of the grid mixins, and the number of CSS classes output." />
+      <item value="Color of labels prefixed to an input." />
+      <item value="prefixed" />
       <item value="Use to style a large number to display a statistic" />
       <item value="Use to style an introductory lead, deck, blurb, etc." />
       <item value="Strong" />
@@ -14,7 +22,6 @@
       <item value="Sets if error styles should be added to inputs." />
       <item value="abide" />
       <item value="stretch" />
-      <item value="prefixed" />
       <item value="prepostfix" />
       <item value="Line height for form labels. The higher the number, the more space between the label and its input field." />
       <item value="Reset Normalize setting content-box to search elements" />
@@ -44,22 +51,24 @@
       <item value="Adds a downward-facing triangle as a background image to an element. The image is formatted as an SVG, making it easy to change the color. Because Internet Explorer doesn't support encoded SVGs as background images, a PNG fallback is also included." />
       <item value="Spacing between bars is calculated based on the total height of the icon and the weight of each bar" />
       <item value="box-shadow CSS output" />
-      <item value="Height of individual bars in the icon." />
-      <item value="Creates a menu icon with a set width, height, number of bars, and colors. The mixin uses the height of the icon and the weight of the bars to determine spacing. &lt;div class=&quot;docs-example-burger&quot;&gt;&lt;/div&gt;" />
-      <item value="Direction the triangle points. Can be `up`, `right`, `down`, or `left`." />
-      <item value="Width of the triangle." />
-      <item value="Creates a CSS triangle, which can be used for dropdown arrows, dropdown pips, and more. Use this mixin inside a `&amp;::before` or `&amp;::after` selector, to attach the triangle to an existing element." />
-      <item value="Side the shadow is supposed to appear. Can be `top`, `left`, `right` or `bottom`." />
-      <item value="Creates an inner box-shadow for only one side" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180504000153132" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
