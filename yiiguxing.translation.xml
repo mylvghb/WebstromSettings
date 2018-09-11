@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use to style a large number to display a statistic" />
+      <item value="Use to style an introductory lead, deck, blurb, etc." />
       <item value="Strong" />
       <item value="Emphasized" />
       <item value="Note, that $header-sizes has been replaced with $header-styles. $header-sizes still works, but it is going to be depreciated." />
@@ -49,13 +51,11 @@
       <item value="Creates a CSS triangle, which can be used for dropdown arrows, dropdown pips, and more. Use this mixin inside a `&amp;::before` or `&amp;::after` selector, to attach the triangle to an existing element." />
       <item value="Side the shadow is supposed to appear. Can be `top`, `left`, `right` or `bottom`." />
       <item value="Creates an inner box-shadow for only one side" />
-      <item value="Otherwise, find the next lowest breakpoint and return that value" />
-      <item value="Check if the breakpoint name exists in the local config map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
