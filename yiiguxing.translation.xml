@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generic components" />
       <item value="noinspection" />
       <item value="Annotation `parameter` is not allowed on comment from type `css` in `_unit.scss:20:25`." />
       <item value="Map of breakpoints and values or single value to use." />
@@ -50,12 +51,11 @@
       <item value="Key to use as a starting point." />
       <item value="Map to traverse." />
       <item value="Find the next key in a map." />
-      <item value="A string containing the map's contents." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="258" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
