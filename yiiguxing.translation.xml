@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Line height for form labels. The higher the number, the more space between the label and its input field." />
       <item value="Reset Normalize setting content-box to search elements" />
       <item value="Reset styles on button-like inputs" />
       <item value="Enables the up/down buttons that Chrome and Firefox add to `&lt;input type='number'&gt;` elements." />
@@ -50,12 +51,11 @@
       <item value="Key to use as last breakpoint." />
       <item value="Return a list of our named breakpoints less than $key. Useful for dealing with&#10;/// responsive gutters for the grid." />
       <item value="If the Key Exists, Get the index of the key within the map and add 1 to it for the next breakpoint in the map" />
-      <item value="The value for the key after `$key`, if `$key` was found. If `$key` was not found, or `$key` was the last value in the map, returns `null`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
