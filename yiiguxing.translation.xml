@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adds error styles to a form element, using the values in the settings file." />
+      <item value="Lightness level of the background color." />
+      <item value="Styles the background and border of an input field to have an error state." />
+      <item value="Color to use for labels of invalid inputs." />
+      <item value="invalid" />
+      <item value="Sets if error styles should be added to inputs." />
+      <item value="abide" />
       <item value="stretch" />
       <item value="prefixed" />
       <item value="prepostfix" />
@@ -44,18 +51,11 @@
       <item value="Check if the breakpoint name exists globally" />
       <item value="The corresponding breakpoint value." />
       <item value="Breakpoint name to use." />
-      <item value="Responsive config map or single value." />
-      <item value="If the config is a map and does *not* have the breakpoint, the value matching the next lowest breakpoint in the config map is returned." />
-      <item value="If the config is a map and has the key `$value`, the exact breakpoint value is returned." />
-      <item value="If the config is a single value, return it regardless of `$value`." />
-      <item value="Get a value for a breakpoint from a responsive config map or single value." />
-      <item value="Return a list of our named breakpoints less than $key. Useful for dealing with" />
-      <item value="The list of breakpoints up to and. If $key is auto, returns breakpoints above the zero" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
