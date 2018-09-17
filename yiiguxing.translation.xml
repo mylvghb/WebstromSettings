@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hollow" />
       <item value="Changing the World Through Design" />
       <item value="Yeti" />
       <item value="Agency" />
@@ -13,7 +14,6 @@
       <item value="We&amp;rsquo;re stoked you want to try Foundation!" />
       <item value="flip from margin-right to margin-left for defaults" />
       <item value="Color lightness on hover for hollow buttons." />
-      <item value="hollow" />
       <item value="The double .row class is needed to bump up the specificity" />
       <item value="Inverts the margins of a row to nest it inside of a column." />
       <item value="If `false`, selectors inside this mixin will nest inside the parent selector." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
