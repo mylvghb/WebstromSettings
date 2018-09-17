@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Really big special this week on items." />
       <item value="The contemplation of celestial things will make a man both speak and think more sublimely and magnificently when he descends to human affairs." />
       <item value="hollow" />
       <item value="Changing the World Through Design" />
@@ -50,12 +51,11 @@
       <item value="Single value, breakpoint name, or list of breakpoint names to use. &quot;auto&quot; by default." />
       <item value="For &quot;auto&quot;, `$-zf-bp-value` is the corresponding breakpoint value in `$map` and is passed to `@content`, which is made responsive for each breakpoint of `$map`." />
       <item value="For a breakpoint name, `$-zf-bp-value` is the corresponding breakpoint value in `$map`." />
-      <item value="For a single value, `$-zf-bp-value` is this value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
