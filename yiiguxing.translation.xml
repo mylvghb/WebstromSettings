@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The contemplation of celestial things will make a man both speak and think more sublimely and magnificently when he descends to human affairs." />
       <item value="hollow" />
       <item value="Changing the World Through Design" />
       <item value="Yeti" />
@@ -50,12 +51,11 @@
       <item value="For &quot;auto&quot;, `$-zf-bp-value` is the corresponding breakpoint value in `$map` and is passed to `@content`, which is made responsive for each breakpoint of `$map`." />
       <item value="For a breakpoint name, `$-zf-bp-value` is the corresponding breakpoint value in `$map`." />
       <item value="For a single value, `$-zf-bp-value` is this value." />
-      <item value="Generate the `@content` passed to the mixin with a value `$-zf-bp-value` related to a breakpoint, depending on the `$name` parameter:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
