@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="explicit" />
       <item value="This is the base layout for your project, and will be used on every page unless specified." />
       <item value="Internal classes to show/hide elements in JavaScript" />
       <item value="Make reset inherit font-family instead of settings sans-serif" />
@@ -50,12 +51,11 @@
       <item value="Is a keyword preventing the usage of the inflation algorithm on the element. Basically, this means that the element will be displayed without its font inflated. On desktop Webkit-based browsers, this will only prevent any zoom on the whole page." />
       <item value="- webkit - text - size - adjust" />
       <item value="Remove the margin in all browsers." />
-      <item value="Sections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
