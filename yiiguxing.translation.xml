@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Customize this policy to fit your own app's needs. For more guidance, see:" />
+      <item value="Status bar overlay for fullscreen mode" />
+      <item value="msapplication" />
+      <item value="reveal" />
+      <item value="telephone" />
+      <item value="format-detection" />
+      <item value="detection" />
+      <item value="capable" />
+      <item value="Enable inline JS: add 'unsafe-inline' to default-src" />
+      <item value="Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:" />
+      <item value="https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly" />
+      <item value="is required only on iOS (when using UIWebView) and is needed for JS-&gt;native communication" />
       <item value="Really big special this week on items." />
       <item value="The contemplation of celestial things will make a man both speak and think more sublimely and magnificently when he descends to human affairs." />
       <item value="hollow" />
@@ -8,7 +20,6 @@
       <item value="Yeti" />
       <item value="Agency" />
       <item value="sticky" />
-      <item value="reveal" />
       <item value="Menu-based containers" />
       <item value="bullets" />
       <item value="orbit" />
@@ -40,22 +51,11 @@
       <item value="abide" />
       <item value="stretch" />
       <item value="prepostfix" />
-      <item value="Line height for form labels. The higher the number, the more space between the label and its input field." />
-      <item value="Reset Normalize setting content-box to search elements" />
-      <item value="Reset styles on button-like inputs" />
-      <item value="Enables the up/down buttons that Chrome and Firefox add to `&lt;input type='number'&gt;` elements." />
-      <item value="Generic components" />
-      <item value="noinspection" />
-      <item value="Annotation `parameter` is not allowed on comment from type `css` in `_unit.scss:20:25`." />
-      <item value="Map of breakpoints and values or single value to use." />
-      <item value="Single value, breakpoint name, or list of breakpoint names to use. &quot;auto&quot; by default." />
-      <item value="For &quot;auto&quot;, `$-zf-bp-value` is the corresponding breakpoint value in `$map` and is passed to `@content`, which is made responsive for each breakpoint of `$map`." />
-      <item value="For a breakpoint name, `$-zf-bp-value` is the corresponding breakpoint value in `$map`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
