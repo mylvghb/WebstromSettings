@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Internal classes to show/hide elements in JavaScript" />
+      <item value="Make reset inherit font-family instead of settings sans-serif" />
+      <item value="Prevent text overflow on pre" />
+      <item value="Reset &lt;button&gt; styles created by most browsers" />
+      <item value="Styles Google Maps and MapQuest embeds properly" />
+      <item value="Make select elements are 100% width by default" />
+      <item value="Make sure textarea takes on height automatically" />
+      <item value="Grid defaults to get images and embeds to work properly" />
+      <item value="Get rid of gap under images by making them display: inline-block; by default" />
+      <item value="antialiased" />
+      <item value="These styles are applied to a &lt;meta&gt; tag, which is read by the Foundation JavaScript" />
+      <item value="Internal variable that contains the flex justifying options" />
+      <item value="Internal variables used for text direction" />
+      <item value="individually" />
+      <item value="Example of selectively including files" />
+      <item value="this will include every plugin and utility required by Foundation" />
       <item value="assets" />
       <item value="Compressed CSS with right-to-left reading direction" />
       <item value="Know that they all require `foundation.core.js` to be loaded *first*. Some plugins also require specific utility libraries that ship with Foundation&amp;mdash;refer to a plugin's documentation to find out which plugins require what, and see the [JavaScript Utilities](javascript-utilities.html) page for more information." />
@@ -35,22 +51,13 @@
       <item value="Remove the margin in all browsers." />
       <item value="Sections" />
       <item value="Prevent adjustments of font size after orientation changes in iOS." />
-      <item value="Correct the line height in all browsers." />
-      <item value="Want the guided tour to Foundation from the team that built it?" />
-      <item value="把初始化第几页传递给查询参数" />
-      <item value="Lifecycle hook that is called when any data-bound property of a directive changes." />
-      <item value="`getModuleFactory`. If left `undefined`, the `NgModule` will not be registered with" />
-      <item value="An opaque ID for this module, e.g. a name or a path. Used to identify modules in" />
-      <item value="any custom elements (tag name has &quot;-&quot;) with any properties are" />
-      <item value="any elements and properties are allowed" />
-      <item value="will automatically be added to `entryComponents`." />
-      <item value="this module is bootstrapped. The components listed here" />
-      <item value="Defines the components that should be bootstrapped when" />
-      <item value="and store it in the {@link ComponentFactoryResolver}." />
-      <item value="For each component listed here, Angular will create a {@link ComponentFactory}" />
-      <item value="Specifies a list of components that should be compiled when this module is defined." />
-      <item value="that imports this Angular module." />
-      <item value="of any component that is part of an Angular module" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+      </map>
+    </option>
   </component>
 </application>
