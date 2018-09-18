@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Customize this policy to fit your own app's needs. For more guidance, see:" />
+      <item value="Login Screen" />
+      <item value="Popup" />
+      <item value="Here is your blank Framework7 app. Let's see what we have here." />
       <item value="Status bar overlay for fullscreen mode" />
+      <item value="overlay" />
+      <item value="Customize this policy to fit your own app's needs. For more guidance, see:" />
       <item value="msapplication" />
       <item value="reveal" />
       <item value="telephone" />
@@ -47,15 +51,11 @@
       <item value="Styles the background and border of an input field to have an error state." />
       <item value="Color to use for labels of invalid inputs." />
       <item value="invalid" />
-      <item value="Sets if error styles should be added to inputs." />
-      <item value="abide" />
-      <item value="stretch" />
-      <item value="prepostfix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
