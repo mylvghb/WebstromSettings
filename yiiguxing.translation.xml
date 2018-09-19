@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default route (404 page). MUST BE THE LAST" />
+      <item value="Page Loaders &amp; Router" />
       <item value="Page, data-name contains page name which can be used in callbacks" />
       <item value="reveal" />
       <item value="Login Screen" />
@@ -49,13 +51,11 @@
       <item value="Note, that $header-sizes has been replaced with $header-styles. $header-sizes still works, but it is going to be depreciated." />
       <item value="Adds error styles to a form element, using the values in the settings file." />
       <item value="Lightness level of the background color." />
-      <item value="Styles the background and border of an input field to have an error state." />
-      <item value="Color to use for labels of invalid inputs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
