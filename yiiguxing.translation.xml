@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lifecycle Hooks" />
       <item value="Resolve" />
       <item value="Resolve route to load page" />
       <item value="We got user data from request" />
@@ -50,12 +51,11 @@
       <item value="Color of labels prefixed to an input." />
       <item value="prefixed" />
       <item value="Use to style a large number to display a statistic" />
-      <item value="Use to style an introductory lead, deck, blurb, etc." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
