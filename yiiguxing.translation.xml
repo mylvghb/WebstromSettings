@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Action Sheet can be automatically converted to Popover (for tablets). This button will open Popover on tablets and Action Sheet on phones:" />
       <item value="Integer semper" />
       <item value="inset" />
       <item value="List View Accordion" />
@@ -50,12 +51,11 @@
       <item value="Yeti" />
       <item value="Agency" />
       <item value="sticky" />
-      <item value="Menu-based containers" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="347" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
