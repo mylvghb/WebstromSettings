@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Badge" />
+      <item value="You can put here anything, even another isolated view like in" />
+      <item value="You can close it by clicking outsite or on this link:" />
+      <item value="This is a left side panel." />
       <item value="Raised" />
       <item value="Lifecycle Hooks" />
       <item value="Resolve" />
@@ -47,15 +51,11 @@
       <item value="Change the behavior of columns defined inside this mixin to use a different column count." />
       <item value="edge" />
       <item value="If `true`, the last column in a row will align to the opposite edge of the row." />
-      <item value="opposite" />
-      <item value="The default column count of a grid. Changing this value affects the logic of the grid mixins, and the number of CSS classes output." />
-      <item value="Color of labels prefixed to an input." />
-      <item value="prefixed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
