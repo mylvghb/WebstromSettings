@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gauge" />
+      <item value="FAB Morph" />
       <item value="Elevation" />
       <item value="Panel Navigation" />
       <item value="Badge" />
@@ -49,13 +51,11 @@
       <item value="Color lightness on hover for hollow buttons." />
       <item value="The double .row class is needed to bump up the specificity" />
       <item value="Inverts the margins of a row to nest it inside of a column." />
-      <item value="If `false`, selectors inside this mixin will nest inside the parent selector." />
-      <item value="Change the behavior of columns defined inside this mixin to use a different column count." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
