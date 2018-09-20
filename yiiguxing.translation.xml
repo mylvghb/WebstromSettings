@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Integer semper" />
+      <item value="inset" />
+      <item value="List View Accordion" />
       <item value="Timeline" />
       <item value="Swiper Slider" />
       <item value="Swipe To Delete" />
@@ -48,16 +51,14 @@
       <item value="Agency" />
       <item value="sticky" />
       <item value="Menu-based containers" />
-      <item value="bullets" />
-      <item value="orbit" />
-      <item value="Once you've exhausted the fun in this document, you should check out:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="347" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
