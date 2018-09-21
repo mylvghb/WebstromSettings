@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Favorite Fruite" />
+      <item value="Simple Standalone Autocomplete" />
+      <item value="Standalone autocomplete provides better mobile UX by opening it in a new page or popup. Good to use when you need to get strict values without allowing free-type values." />
       <item value="Dropdown With Input Expand" />
       <item value="Dropdown autocomplete is good to use as a quick and simple solution to provide more options in addition to free-type value." />
       <item value="Do something" />
@@ -48,14 +51,11 @@
       <item value="https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly" />
       <item value="is required only on iOS (when using UIWebView) and is needed for JS-&gt;native communication" />
       <item value="Really big special this week on items." />
-      <item value="The contemplation of celestial things will make a man both speak and think more sublimely and magnificently when he descends to human affairs." />
-      <item value="hollow" />
-      <item value="Changing the World Through Design" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
