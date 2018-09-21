@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dropdown With Input Expand" />
+      <item value="Dropdown autocomplete is good to use as a quick and simple solution to provide more options in addition to free-type value." />
       <item value="Do something" />
       <item value="Action Sheet can be automatically converted to Popover (for tablets). This button will open Popover on tablets and Action Sheet on phones:" />
       <item value="Integer semper" />
@@ -49,13 +51,11 @@
       <item value="The contemplation of celestial things will make a man both speak and think more sublimely and magnificently when he descends to human affairs." />
       <item value="hollow" />
       <item value="Changing the World Through Design" />
-      <item value="Yeti" />
-      <item value="Agency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
