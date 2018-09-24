@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Segmented" />
+      <item value="Usual Buttons" />
+      <item value="Ivan Petrov" />
+      <item value="Foo Bar" />
+      <item value="Inbox" />
       <item value="explicit" />
       <item value="This is the base layout for your project, and will be used on every page unless specified." />
       <item value="Internal classes to show/hide elements in JavaScript" />
@@ -46,17 +51,13 @@
       <item value="Correct the odd `em` font sizing in all browsers." />
       <item value="Show the overflow in Edge and IE." />
       <item value="Add the correct box sizing in Firefox." />
-      <item value="// Correct the font size and margin on `h1` elements within `section` and // `article` contexts in Chrome, Firefox, and Safari." />
-      <item value="Correct the font size and margin on `h1` elements within `section` and" />
-      <item value="Is a keyword preventing the usage of the inflation algorithm on the element. Basically, this means that the element will be displayed without its font inflated. On desktop Webkit-based browsers, this will only prevent any zoom on the whole page." />
-      <item value="- webkit - text - size - adjust" />
-      <item value="Remove the margin in all browsers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="BULGARIAN" value="1" />
       </map>
     </option>
   </component>
