@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is recommended to use Kitchen Sink as a reference during development." />
+      <item value="Framework7 Kitchen Sink is a great place to get started, it has a lot of examples for all Framework7 components and covers most of aspects." />
       <item value="Touch Ripple (MD Theme)" />
       <item value="Tap Hold Event (Long Tap)" />
       <item value="Hairlines" />
@@ -49,13 +51,11 @@
       <item value="this will include every plugin and utility required by Foundation" />
       <item value="assets" />
       <item value="Compressed CSS with right-to-left reading direction" />
-      <item value="Know that they all require `foundation.core.js` to be loaded *first*. Some plugins also require specific utility libraries that ship with Foundation&amp;mdash;refer to a plugin's documentation to find out which plugins require what, and see the [JavaScript Utilities](javascript-utilities.html) page for more information." />
-      <item value="You can import in your HTML the complete Foundation library `foundation.min.js` like above, but also each plugin individually." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
