@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calendar could be used as inline component or as overlay. Overlay Calendar will be automatically converted to Popover on tablets (iPad)." />
+      <item value="Calendar is a touch optimized component that provides an easy way to handle dates." />
       <item value="Favorite Fruite" />
       <item value="Simple Standalone Autocomplete" />
       <item value="Standalone autocomplete provides better mobile UX by opening it in a new page or popup. Good to use when you need to get strict values without allowing free-type values." />
@@ -49,13 +51,11 @@
       <item value="Enable inline JS: add 'unsafe-inline' to default-src" />
       <item value="Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:" />
       <item value="https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly" />
-      <item value="is required only on iOS (when using UIWebView) and is needed for JS-&gt;native communication" />
-      <item value="Really big special this week on items." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
