@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="p Note, that Framework7 ES modules are in ES-next syntax, so don't forget to enable/configure your Babel/Buble to transpile them as well, as well as &lt;code&gt;template7&lt;/code&gt;, &lt;code&gt;dom7&lt;/code&gt; and &lt;code&gt;ssr-window&lt;/code&gt; modules that used as dependencies." />
+      <item value="Bundle" />
+      <item value="In addition to &lt;code&gt;default&lt;/code&gt; export it has named export for &lt;code&gt;Template7&lt;/code&gt;, &lt;code&gt;Dom7&lt;/code&gt;, &lt;code&gt;Request&lt;/code&gt;, &lt;code&gt;Device&lt;/code&gt;, &lt;code&gt;Utils&lt;/code&gt; and &lt;code&gt;Support&lt;/code&gt; libraries:" />
+      <item value="Install F7 Components" />
+      <item value="Import additional components" />
+      <item value="Framework7 can also be imported as an ES-next module:" />
+      <item value="From the downloaded Core package we will need files from &lt;code&gt;css&lt;/code&gt; and &lt;code&gt;js&lt;/code&gt; folders" />
+      <item value="starter app templates" />
       <item value="It is recommended to use Kitchen Sink as a reference during development." />
       <item value="Framework7 Kitchen Sink is a great place to get started, it has a lot of examples for all Framework7 components and covers most of aspects." />
       <item value="Touch Ripple (MD Theme)" />
@@ -43,19 +51,11 @@
       <item value="Grid defaults to get images and embeds to work properly" />
       <item value="Get rid of gap under images by making them display: inline-block; by default" />
       <item value="antialiased" />
-      <item value="These styles are applied to a &lt;meta&gt; tag, which is read by the Foundation JavaScript" />
-      <item value="Internal variable that contains the flex justifying options" />
-      <item value="Internal variables used for text direction" />
-      <item value="individually" />
-      <item value="Example of selectively including files" />
-      <item value="this will include every plugin and utility required by Foundation" />
-      <item value="assets" />
-      <item value="Compressed CSS with right-to-left reading direction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
