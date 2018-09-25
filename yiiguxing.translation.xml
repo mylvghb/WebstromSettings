@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All HTML and CSS changes should be commited to `src/` files only!" />
+      <item value="run website on local server and use local resoureses with next builds" />
+      <item value="build pug files to html and use local resources instead of CDN" />
+      <item value="By default all static resources refer to CDN host. To use local resources (for dev purpose only), you can call same gulp tasks with ` -local` argument" />
+      <item value="build both pug and less files" />
+      <item value="build less files to css" />
+      <item value="build pug files to html" />
+      <item value="run website on local server" />
+      <item value="And then, you can use gulp to compile less and pug files, read more about [Gulp](http://gulpjs.com/)." />
+      <item value="Run `npm install` under root dir to install npm packages." />
+      <item value="Framework7's website to use these docs offline" />
       <item value="Calendar could be used as inline component or as overlay. Overlay Calendar will be automatically converted to Popover on tablets (iPad)." />
       <item value="Calendar is a touch optimized component that provides an easy way to handle dates." />
       <item value="Favorite Fruite" />
@@ -40,22 +51,11 @@
       <item value="Login Screen" />
       <item value="Popup" />
       <item value="Here is your blank Framework7 app. Let's see what we have here." />
-      <item value="Status bar overlay for fullscreen mode" />
-      <item value="overlay" />
-      <item value="Customize this policy to fit your own app's needs. For more guidance, see:" />
-      <item value="msapplication" />
-      <item value="telephone" />
-      <item value="format-detection" />
-      <item value="detection" />
-      <item value="capable" />
-      <item value="Enable inline JS: add 'unsafe-inline' to default-src" />
-      <item value="Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:" />
-      <item value="https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
