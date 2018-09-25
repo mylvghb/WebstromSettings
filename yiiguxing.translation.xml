@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Touch Ripple (MD Theme)" />
+      <item value="Tap Hold Event (Long Tap)" />
+      <item value="Hairlines" />
+      <item value="Icons Cheatsheet" />
+      <item value="Virtual List" />
+      <item value="Intelligence" />
+      <item value="Video Intelligence" />
+      <item value="Toolbar / Tabbar" />
+      <item value="Toast" />
+      <item value="Swiper" />
+      <item value="Subnavbar" />
+      <item value="Stepper" />
+      <item value="Statusbar" />
+      <item value="Sheet Modal" />
+      <item value="Searchbar" />
+      <item value="Range Slider" />
+      <item value="Radio" />
+      <item value="Popup" />
+      <item value="Popover" />
+      <item value="Navbar" />
       <item value="Gauge" />
       <item value="Elevation" />
       <item value="Chips" />
@@ -31,33 +51,16 @@
       <item value="Compressed CSS with right-to-left reading direction" />
       <item value="Know that they all require `foundation.core.js` to be loaded *first*. Some plugins also require specific utility libraries that ship with Foundation&amp;mdash;refer to a plugin's documentation to find out which plugins require what, and see the [JavaScript Utilities](javascript-utilities.html) page for more information." />
       <item value="You can import in your HTML the complete Foundation library `foundation.min.js` like above, but also each plugin individually." />
-      <item value="Import in HTML" />
-      <item value="Once you have the files, add links to jQuery and Foundation as `&lt;script&gt;` tags at the bottom of your page, just before the closing `&lt;body&gt;` tag." />
-      <item value="You can get the Foundation JavaScript files from a ZIP download, package manager, or CDN. Check out the [Installation](installation.html) page to learn more." />
-      <item value="Foundation JavaScript files from a ZIP download, package manager, or CDN. Check out the [Installation](installation.html) page to learn more." />
-      <item value="Our JavaScript is easy to set up and only requires jQuery to get going." />
-      <item value="Removes all false and null values from `$list`." />
-      <item value="purge" />
-      <item value="Returns whether `$list` contains `$value`." />
-      <item value="value to check" />
-      <item value="Returns truthiness of `$value`. ///" />
-      <item value="Whether or not there are missing dependencies" />
-      <item value="list of functions to check for" />
-      <item value="Checks whether `$functions` exist in global scope." />
-      <item value="Add the correct font size in all browsers." />
-      <item value="Correct the inheritance and scaling of font size in all browsers." />
-      <item value="Add the correct font weight in Chrome, Edge, and Safari." />
-      <item value="Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari." />
-      <item value="Remove the bottom border in Chrome 57-" />
-      <item value="Remove the gray background on active links in IE 10." />
-      <item value="Text-level semantics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
