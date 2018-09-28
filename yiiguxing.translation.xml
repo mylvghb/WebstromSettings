@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When enabled it will restore page scroll top when you get back to this page" />
+      <item value="Enables transitions between pages" />
+      <item value="You may enable this parameter to allow loading of new pages that have same url as currently &quot;active&quot; page in View." />
       <item value="Default (initial) View's url. If not specified, then it is equal to document url" />
       <item value="Set to false to disable view router" />
       <item value="Specify whether this is View is main or not. If not passed then will be determined based on whether its element has &lt;code&gt;view-main&lt;/code&gt; class or not" />
@@ -48,14 +51,11 @@
       <item value="Stepper" />
       <item value="Gauge" />
       <item value="FAB Morph" />
-      <item value="Elevation" />
-      <item value="Panel Navigation" />
-      <item value="Badge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
