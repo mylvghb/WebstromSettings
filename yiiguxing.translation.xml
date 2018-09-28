@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method returns object with just created View instance." />
       <item value="Introduction" />
       <item value="Introduction to Framework7 | Framework7 Documentation" />
       <item value="forks" />
@@ -50,12 +51,11 @@
       <item value="This is a left side panel." />
       <item value="Raised" />
       <item value="Lifecycle Hooks" />
-      <item value="Resolve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
