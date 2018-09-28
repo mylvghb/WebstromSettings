@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default (initial) View's url. If not specified, then it is equal to document url" />
+      <item value="Set to false to disable view router" />
+      <item value="Specify whether this is View is main or not. If not passed then will be determined based on whether its element has &lt;code&gt;view-main&lt;/code&gt; class or not" />
+      <item value="View name. If view was created with name, then it may be accessed via &lt;code&gt;app.views.[name]&lt;/code&gt;" />
+      <item value="Now let's look at list of available parameters we need to create View:" />
       <item value="Method returns object with just created View instance." />
       <item value="Introduction" />
       <item value="Introduction to Framework7 | Framework7 Documentation" />
@@ -46,16 +51,11 @@
       <item value="Elevation" />
       <item value="Panel Navigation" />
       <item value="Badge" />
-      <item value="You can put here anything, even another isolated view like in" />
-      <item value="You can close it by clicking outsite or on this link:" />
-      <item value="This is a left side panel." />
-      <item value="Raised" />
-      <item value="Lifecycle Hooks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="386" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
