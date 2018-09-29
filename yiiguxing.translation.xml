@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="previous pages history will be cleared after reloading/navigate to the specified route" />
+      <item value="load new page and remove all previous pages from history and DOM" />
+      <item value="replace the previous page in history with the new one from route" />
+      <item value="replace the current page with the new one from route" />
+      <item value="object with matching route from available routes" />
       <item value="Object with router initialization parameters" />
       <item value="Event will be triggered on view initialization" />
       <item value="View's initialized router instance" />
@@ -46,16 +51,11 @@
       <item value="Segmented" />
       <item value="Usual Buttons" />
       <item value="Ivan Petrov" />
-      <item value="Foo Bar" />
-      <item value="Inbox" />
-      <item value="explicit" />
-      <item value="This is the base layout for your project, and will be used on every page unless specified." />
-      <item value="Internal classes to show/hide elements in JavaScript" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
