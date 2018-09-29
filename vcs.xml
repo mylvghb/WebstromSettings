@@ -15,39 +15,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/lilanjun/EpoolCat.git" />
+          <option name="url" value="https://github.com/mylvghb/foundation-sites-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://git.qtransmall.com/qtm/view-cat.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mylvghb/foundation-sites.git" />
+          <option name="url" value="https://github.com/mylvghb/foundation-sites" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://gitee.com/lilanjun/foundation-sites.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/lilanjun/myeditor.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/tinymce/tinymce.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mylvghb/Foundation-Learn.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/lilanjun/gulp-learn.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/lilanjun/foundation-sites-basic.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -59,11 +35,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://gitee.com/lilanjun/framework7.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://gitee.com/lilanjun/framework7-website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\study" />
+    <option name="cloneParentDir" value="C:\Users\daves\WebstormProjects" />
   </component>
 </application>

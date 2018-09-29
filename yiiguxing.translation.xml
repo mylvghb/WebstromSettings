@@ -1,75 +1,67 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="When enabled it will restore page scroll top when you get back to this page" />
-      <item value="Enables transitions between pages" />
-      <item value="You may enable this parameter to allow loading of new pages that have same url as currently &quot;active&quot; page in View." />
-      <item value="Default (initial) View's url. If not specified, then it is equal to document url" />
-      <item value="Set to false to disable view router" />
-      <item value="Specify whether this is View is main or not. If not passed then will be determined based on whether its element has &lt;code&gt;view-main&lt;/code&gt; class or not" />
-      <item value="View name. If view was created with name, then it may be accessed via &lt;code&gt;app.views.[name]&lt;/code&gt;" />
-      <item value="Now let's look at list of available parameters we need to create View:" />
-      <item value="Method returns object with just created View instance." />
-      <item value="Introduction" />
-      <item value="Introduction to Framework7 | Framework7 Documentation" />
-      <item value="forks" />
-      <item value="Sponsors" />
-      <item value="Featured iOS Apps Made With Framework7" />
-      <item value="High-performance Animation" />
-      <item value="Killer" />
-      <item value="Not Harder Than Website!" />
-      <item value="carbon" />
-      <item value="September" />
-      <item value="Full Featured Mobile HTML Framework For Building iOS &amp; Android Apps" />
-      <item value="All HTML and CSS changes should be commited to `src/` files only!" />
-      <item value="run website on local server and use local resoureses with next builds" />
-      <item value="build pug files to html and use local resources instead of CDN" />
-      <item value="By default all static resources refer to CDN host. To use local resources (for dev purpose only), you can call same gulp tasks with ` -local` argument" />
-      <item value="build both pug and less files" />
-      <item value="build less files to css" />
-      <item value="build pug files to html" />
-      <item value="run website on local server" />
-      <item value="And then, you can use gulp to compile less and pug files, read more about [Gulp](http://gulpjs.com/)." />
-      <item value="Run `npm install` under root dir to install npm packages." />
-      <item value="Framework7's website to use these docs offline" />
-      <item value="Calendar could be used as inline component or as overlay. Overlay Calendar will be automatically converted to Popover on tablets (iPad)." />
-      <item value="Calendar is a touch optimized component that provides an easy way to handle dates." />
-      <item value="Favorite Fruite" />
-      <item value="Simple Standalone Autocomplete" />
-      <item value="Standalone autocomplete provides better mobile UX by opening it in a new page or popup. Good to use when you need to get strict values without allowing free-type values." />
-      <item value="Dropdown With Input Expand" />
-      <item value="Dropdown autocomplete is good to use as a quick and simple solution to provide more options in addition to free-type value." />
-      <item value="Do something" />
-      <item value="Action Sheet can be automatically converted to Popover (for tablets). This button will open Popover on tablets and Action Sheet on phones:" />
-      <item value="Integer semper" />
-      <item value="inset" />
-      <item value="List View Accordion" />
-      <item value="Timeline" />
-      <item value="Swiper Slider" />
-      <item value="Swipe To Delete" />
-      <item value="Swipeout" />
+      <item value="Scrollable page content" />
+      <item value="Awesome" />
+      <item value="Your main view, should have &quot;view-main&quot; class" />
+      <item value="p Note, that Framework7 ES modules are in ES-next syntax, so don't forget to enable/configure your Babel/Buble to transpile them as well, as well as &lt;code&gt;template7&lt;/code&gt;, &lt;code&gt;dom7&lt;/code&gt; and &lt;code&gt;ssr-window&lt;/code&gt; modules that used as dependencies." />
+      <item value="Bundle" />
+      <item value="In addition to &lt;code&gt;default&lt;/code&gt; export it has named export for &lt;code&gt;Template7&lt;/code&gt;, &lt;code&gt;Dom7&lt;/code&gt;, &lt;code&gt;Request&lt;/code&gt;, &lt;code&gt;Device&lt;/code&gt;, &lt;code&gt;Utils&lt;/code&gt; and &lt;code&gt;Support&lt;/code&gt; libraries:" />
+      <item value="Install F7 Components" />
+      <item value="Import additional components" />
+      <item value="Framework7 can also be imported as an ES-next module:" />
+      <item value="From the downloaded Core package we will need files from &lt;code&gt;css&lt;/code&gt; and &lt;code&gt;js&lt;/code&gt; folders" />
+      <item value="starter app templates" />
+      <item value="It is recommended to use Kitchen Sink as a reference during development." />
+      <item value="Framework7 Kitchen Sink is a great place to get started, it has a lot of examples for all Framework7 components and covers most of aspects." />
+      <item value="Touch Ripple (MD Theme)" />
+      <item value="Tap Hold Event (Long Tap)" />
+      <item value="Hairlines" />
+      <item value="Icons Cheatsheet" />
+      <item value="Virtual List" />
+      <item value="Intelligence" />
+      <item value="Video Intelligence" />
+      <item value="Toolbar / Tabbar" />
+      <item value="Toast" />
+      <item value="Swiper" />
+      <item value="Subnavbar" />
       <item value="Stepper" />
+      <item value="Statusbar" />
+      <item value="Sheet Modal" />
+      <item value="Searchbar" />
+      <item value="Range Slider" />
+      <item value="Radio" />
+      <item value="Popup" />
+      <item value="Popover" />
+      <item value="Navbar" />
       <item value="Gauge" />
-      <item value="FAB Morph" />
+      <item value="Elevation" />
+      <item value="Chips" />
+      <item value="Segmented" />
+      <item value="Usual Buttons" />
+      <item value="Ivan Petrov" />
+      <item value="Foo Bar" />
+      <item value="Inbox" />
+      <item value="explicit" />
+      <item value="This is the base layout for your project, and will be used on every page unless specified." />
+      <item value="Internal classes to show/hide elements in JavaScript" />
+      <item value="Make reset inherit font-family instead of settings sans-serif" />
+      <item value="Prevent text overflow on pre" />
+      <item value="Reset &lt;button&gt; styles created by most browsers" />
+      <item value="Styles Google Maps and MapQuest embeds properly" />
+      <item value="Make select elements are 100% width by default" />
+      <item value="Make sure textarea takes on height automatically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="FRENCH" value="1" />
-        <entry key="LATIN" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20180504000153132" />
-        <option name="appKeyConfigured" value="true" />
-      </app-key>
-    </option>
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
