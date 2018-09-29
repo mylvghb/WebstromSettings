@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When enabled will extract dynamic navbar HTML element from page element and put it as a child of Views element. It improves dynamic navbar transition appearance, but in case you need dynamic navbar to be always as a page's child, then disable this parameter" />
+      <item value="Enables dynamic navbar for iOS theme" />
       <item value="Scrollable page content" />
       <item value="Awesome" />
       <item value="Your main view, should have &quot;view-main&quot; class" />
@@ -49,13 +51,11 @@
       <item value="Prevent text overflow on pre" />
       <item value="Reset &lt;button&gt; styles created by most browsers" />
       <item value="Styles Google Maps and MapQuest embeds properly" />
-      <item value="Make select elements are 100% width by default" />
-      <item value="Make sure textarea takes on height automatically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
