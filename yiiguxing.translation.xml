@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Object with router initialization parameters" />
       <item value="Event will be triggered on view initialization" />
       <item value="View's initialized router instance" />
       <item value="Enable/disable opacity animation during swipe back action. You can disable it to improve performance. For iOS theme" />
@@ -50,12 +51,11 @@
       <item value="explicit" />
       <item value="This is the base layout for your project, and will be used on every page unless specified." />
       <item value="Internal classes to show/hide elements in JavaScript" />
-      <item value="Make reset inherit font-family instead of settings sans-serif" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
