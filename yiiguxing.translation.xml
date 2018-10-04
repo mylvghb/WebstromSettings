@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Extended by Panel component:" />
       <item value="Event will be fired on current route change" />
       <item value="event will be triggered right before swipe back animation to previous page when you release it" />
       <item value="Event will be triggered right before swipe back animation to previous page when you release it" />
@@ -50,12 +51,11 @@
       <item value="Range Slider" />
       <item value="Radio" />
       <item value="Popup" />
-      <item value="Popover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
