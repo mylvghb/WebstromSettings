@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="slick" />
+      <item value="app dashboard toggle" />
+      <item value="the magic" />
+      <item value="slick carousel" />
+      <item value="Trigger the injection" />
+      <item value="create injector configured by options" />
+      <item value="Callback after all SVGs are injected" />
       <item value="If you want to pick and choose which modules to include, comment out the above and uncomment" />
       <item value="Paths to JavaScript entry points for webpack to bundle modules" />
       <item value="Paths to Sass libraries, which can then be loaded with @import" />
@@ -44,18 +51,11 @@
       <item value="object with matching route from available routes" />
       <item value="Object with router initialization parameters" />
       <item value="Event will be triggered on view initialization" />
-      <item value="View's initialized router instance" />
-      <item value="Enable/disable opacity animation during swipe back action. You can disable it to improve performance. For iOS theme" />
-      <item value="When enabled will extract dynamic navbar HTML element from page element and put it as a child of Views element. It improves dynamic navbar transition appearance, but in case you need dynamic navbar to be always as a page's child, then disable this parameter" />
-      <item value="Enables dynamic navbar for iOS theme" />
-      <item value="Scrollable page content" />
-      <item value="Awesome" />
-      <item value="Your main view, should have &quot;view-main&quot; class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
