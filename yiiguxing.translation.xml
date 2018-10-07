@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Paths to JavaScript entry points for webpack to bundle modules" />
+      <item value="Paths to Sass libraries, which can then be loaded with @import" />
+      <item value="Paths to static assets that aren't images, CSS, or JavaScript" />
+      <item value="Gulp will reference these paths when it copies files" />
+      <item value="will use these settings" />
+      <item value="will make sure your CSS works with these browsers" />
+      <item value="Your project's server will run on localhost:xxxx at this port" />
+      <item value="Watch for changes to static assets, pages, Sass, and JavaScript" />
+      <item value="In production, the file is minified" />
+      <item value="Combine JavaScript into one file" />
+      <item value="Uncomment to remove unused styles in production" />
       <item value="In production, the CSS is compressed" />
       <item value="Generate a style guide from the Markdown content and HTML template in styleguide/" />
       <item value="oad updated HTML templates and partials into Panini" />
@@ -40,22 +51,11 @@
       <item value="Scrollable page content" />
       <item value="Awesome" />
       <item value="Your main view, should have &quot;view-main&quot; class" />
-      <item value="p Note, that Framework7 ES modules are in ES-next syntax, so don't forget to enable/configure your Babel/Buble to transpile them as well, as well as &lt;code&gt;template7&lt;/code&gt;, &lt;code&gt;dom7&lt;/code&gt; and &lt;code&gt;ssr-window&lt;/code&gt; modules that used as dependencies." />
-      <item value="Bundle" />
-      <item value="In addition to &lt;code&gt;default&lt;/code&gt; export it has named export for &lt;code&gt;Template7&lt;/code&gt;, &lt;code&gt;Dom7&lt;/code&gt;, &lt;code&gt;Request&lt;/code&gt;, &lt;code&gt;Device&lt;/code&gt;, &lt;code&gt;Utils&lt;/code&gt; and &lt;code&gt;Support&lt;/code&gt; libraries:" />
-      <item value="Install F7 Components" />
-      <item value="Import additional components" />
-      <item value="Framework7 can also be imported as an ES-next module:" />
-      <item value="From the downloaded Core package we will need files from &lt;code&gt;css&lt;/code&gt; and &lt;code&gt;js&lt;/code&gt; folders" />
-      <item value="starter app templates" />
-      <item value="It is recommended to use Kitchen Sink as a reference during development." />
-      <item value="Framework7 Kitchen Sink is a great place to get started, it has a lot of examples for all Framework7 components and covers most of aspects." />
-      <item value="Touch Ripple (MD Theme)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
