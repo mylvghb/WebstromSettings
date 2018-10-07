@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vendor styles" />
       <item value="slick" />
       <item value="app dashboard toggle" />
       <item value="the magic" />
@@ -50,12 +51,11 @@
       <item value="replace the current page with the new one from route" />
       <item value="object with matching route from available routes" />
       <item value="Object with router initialization parameters" />
-      <item value="Event will be triggered on view initialization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
