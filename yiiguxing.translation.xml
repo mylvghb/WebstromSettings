@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parallel" />
+      <item value="series" />
+      <item value="Sass must be run later so UnCSS can search for used classes in the others assets." />
+      <item value="Build the &quot;dist&quot; folder by running all of the below tasks" />
+      <item value="// Build the &quot;dist&quot; folder by running all of the below tasks&#10;// Sass must be run later so UnCSS can search for used classes in the others assets." />
       <item value="success" />
       <item value="prevent" />
       <item value="Extended by Panel component:" />
@@ -46,16 +51,11 @@
       <item value="Toast" />
       <item value="Swiper" />
       <item value="Subnavbar" />
-      <item value="Stepper" />
-      <item value="Statusbar" />
-      <item value="Sheet Modal" />
-      <item value="Searchbar" />
-      <item value="Range Slider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
