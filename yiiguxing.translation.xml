@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you want to pick and choose which modules to include, comment out the above and uncomment" />
       <item value="Paths to JavaScript entry points for webpack to bundle modules" />
       <item value="Paths to Sass libraries, which can then be loaded with @import" />
       <item value="Paths to static assets that aren't images, CSS, or JavaScript" />
@@ -23,7 +24,6 @@
       <item value="Delete the &quot;dist&quot; folder" />
       <item value="Sass must be run later so UnCSS can search for used classes in the others assets." />
       <item value="Build the &quot;dist&quot; folder by running all of the below tasks" />
-      <item value="If you want to pick and choose which modules to include, comment out the above and uncomment" />
       <item value="parallel" />
       <item value="series" />
       <item value="// Build the &quot;dist&quot; folder by running all of the below tasks&#10;// Sass must be run later so UnCSS can search for used classes in the others assets." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DUTCH" value="1" />
