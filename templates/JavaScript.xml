@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="csl" value="console.log($OBJS$);" description="Output a message to the web console" toReformat="false" toShortenFQNames="true">
+    <variable name="OBJS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
