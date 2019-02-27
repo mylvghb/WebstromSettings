@@ -14,8 +14,12 @@
           <option name="url" value="http://git.qtransmall.com/qtm/view-cat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.qtransmall.com/qtm/view-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\daves\WebstormProjects" />
+    <option name="cloneParentDir" value="F:\cat" />
   </component>
 </application>
