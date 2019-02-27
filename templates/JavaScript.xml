@@ -2,9 +2,20 @@
   <template name="csl" value="console.log($OBJS$);" description="Output a message to the web console" toReformat="false" toShortenFQNames="true">
     <variable name="OBJS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="ECMAScript6" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="Vue" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="threrr" value="throw new Error('$MESSAGE$');" description="Throw an error" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="Error" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="trycatch" value="try{&#10;    $BLOCK_STATEMENTS$&#10;}catch(error){&#10;    $ERROR_HANDLER$&#10;}" description="Catch exception from a block of statement." toReformat="false" toShortenFQNames="true">
+    <variable name="BLOCK_STATEMENTS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ERROR_HANDLER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
