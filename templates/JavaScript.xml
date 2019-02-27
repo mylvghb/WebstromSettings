@@ -18,4 +18,12 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="trycatchfinally" value="try{&#10;    $TRY_BLOCK$&#10;}catch(error){&#10;    $CATCH_BLOCK$&#10;}finally{&#10;    $FINALY_BLOCK$&#10;}" description="Catch exception from a block of statement." toReformat="false" toShortenFQNames="true">
+    <variable name="TRY_BLOCK" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CATCH_BLOCK" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FINALY_BLOCK" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
