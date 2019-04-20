@@ -22,6 +22,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="RongIMLib-2.4.0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ronghub.com_RongIMLib-2.4.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ronghub.com_RongIMLib-2.4.0.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vue" type="javaScript">
       <properties>
         <sourceFilesUrls>
