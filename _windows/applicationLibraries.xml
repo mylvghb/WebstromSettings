@@ -50,6 +50,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="tesseract" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tesseract.js@v2.0.0-alpha.8_dist_tesseract.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_tesseract.js@v2.0.0-alpha.8_dist_tesseract.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="vue" type="javaScript">
       <properties>
         <sourceFilesUrls>
