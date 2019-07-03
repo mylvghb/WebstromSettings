@@ -46,6 +46,10 @@
           <option name="url" value="http://gitlab.qtransmall.com" />
           <option name="userName" value="qtm_llj" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/lilanjun/ts-axios.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\study" />
