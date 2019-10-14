@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This package is inlined into Global &amp; Browser ESM builds of user-facing renderers (e.g. `@vue/runtime-dom`), but also published as a package that can be used standalone. The standalone build should not be used alongside a pre-bundled build of a user-facing renderer, as they will have different internal storage for reactivity connections. A user-facing renderer should re-export all APIs from this package." />
+      <item value="This package is inlined into Global &amp; Browser ESM builds of user-facing renderers" />
+      <item value="Usage Note" />
+      <item value="reactivity" />
+      <item value="consumption" />
+      <item value="A special flag that indicates that the diffing algorithm should bail out // of optimized mode." />
+      <item value="BAIL" />
       <item value="exclusive" />
       <item value="mutually" />
       <item value="when this flag is present" />
@@ -16,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
