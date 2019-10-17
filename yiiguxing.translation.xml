@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="only a whitelist of value types can be observed." />
+      <item value="target is already a Proxy" />
+      <item value="target already has corresponding Proxy" />
+      <item value="corresponding" />
+      <item value="target is explicitly marked as readonly by user" />
+      <item value="if trying to observe a readonly proxy, return the readonly version." />
       <item value="WeakMaps that store {raw &lt;-&gt; observed} pairs." />
       <item value="// Conceptually, it's easier to think of a dependency as a Dep class&#10;// which maintains a Set of subscribers, but we simply store them as" />
       <item value="Conceptually" />
@@ -42,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
