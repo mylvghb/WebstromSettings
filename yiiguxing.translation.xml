@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="should make nested properties reactive" />
       <item value="should be reactive" />
       <item value="should hold a value" />
       <item value="built-ins should work and return same value" />
@@ -50,12 +51,11 @@
       <item value="mutually" />
       <item value="when this flag is present" />
       <item value="present" />
-      <item value="Indicates an element that has non-class/style dynamic props." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
