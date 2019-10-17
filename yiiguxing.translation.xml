@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="immutability" />
       <item value="only a whitelist of value types can be observed." />
       <item value="target is already a Proxy" />
       <item value="target already has corresponding Proxy" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
