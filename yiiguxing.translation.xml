@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This flag is mutually // exclusive with CLASS, STYLE and PROPS." />
+      <item value="Indicates an element that has non-class/style dynamic props." />
       <item value="expects Lower Case" />
       <item value="dummy" />
       <item value="scheduler" />
@@ -49,13 +51,11 @@
       <item value="Usage Note" />
       <item value="reactivity" />
       <item value="consumption" />
-      <item value="A special flag that indicates that the diffing algorithm should bail out // of optimized mode." />
-      <item value="BAIL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
