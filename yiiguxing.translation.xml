@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conceptually" />
       <item value="only a whitelist of value types can be observed." />
       <item value="Make a map and return a function for checking if a key" />
       <item value="Make a map" />
@@ -38,7 +39,6 @@
       <item value="if trying to observe a readonly proxy, return the readonly version." />
       <item value="WeakMaps that store {raw &lt;-&gt; observed} pairs." />
       <item value="// Conceptually, it's easier to think of a dependency as a Dep class&#10;// which maintains a Set of subscribers, but we simply store them as" />
-      <item value="Conceptually" />
       <item value="The main WeakMap that stores {target -&gt; key -&gt; dep} connections" />
       <item value="mutable" />
       <item value="The implementation of this module is inspired by the following prior art in the JavaScript" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
