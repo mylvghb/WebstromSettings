@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="target is already a Proxy" />
+      <item value="target already has corresponding Proxy" />
       <item value="Feature flags" />
       <item value="bail out on types that shouldn't be unwrapped" />
       <item value="Bail Types" />
@@ -29,8 +31,6 @@
       <item value="preset" />
       <item value="immutability" />
       <item value="only a whitelist of value types can be observed." />
-      <item value="target is already a Proxy" />
-      <item value="target already has corresponding Proxy" />
       <item value="corresponding" />
       <item value="target is explicitly marked as readonly by user" />
       <item value="if trying to observe a readonly proxy, return the readonly version." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
