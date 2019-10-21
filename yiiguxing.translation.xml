@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bail Types" />
       <item value="using literal strings instead of numbers so that it's easier to inspect // debugger events" />
       <item value="inspect" />
       <item value="Check if two values are loosely equal - that is" />
@@ -43,7 +44,6 @@
       <item value="Caveats" />
       <item value="# @vue/reactivity ## Usage Note This package is inlined into Global &amp; Browser ESM builds of user-facing renderers (e.g. `@vue/runtime-dom`), but also published as a package that can be used standalone. The standalone build should not be used alongside a pre-bundled build of a user-facing renderer, as they will have different internal storage for reactivity connections. A user-facing renderer should re-export all APIs from this package. For full exposed APIs, see `src/index.ts`. You can also run `yarn build reactivity --types` from repo root, which will generate an API report at `temp/reactivity.api.md`. ## Credits The implementation of this module is inspired by the following prior art in the JavaScript ecosystem: - [Meteor Tracker](https://docs.meteor.com/api/tracker.html)&#10;- [nx-js/reactivity-util](https://github.com/nx-js/reactivity-util)&#10;- [salesforce/observable-membrane](https://github.com/salesforce/observable-membrane) ## Caveats - Built-in objects are not observed except for `Map`, `WeakMap`, `Set` and `WeakSet`." />
       <item value="using literal strings instead of numbers so that it's easier to inspect" />
-      <item value="Bail Types" />
       <item value="Recursively unwraps nested value bindings." />
       <item value="unwraps" />
       <item value="Check if two values are loosely equal" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
