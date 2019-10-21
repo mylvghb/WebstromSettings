@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bail out on types that shouldn't be unwrapped" />
       <item value="Bail Types" />
       <item value="using literal strings instead of numbers so that it's easier to inspect // debugger events" />
       <item value="inspect" />
@@ -50,12 +51,11 @@
       <item value="Reserved" />
       <item value="Built-in objects are not observed except for" />
       <item value="The implementation of this module is inspired by the following prior art in the JavaScript ecosystem:" />
-      <item value="This package is inlined into Global &amp; Browser ESM builds of user-facing renderers (e.g. `@vue/runtime-dom`), but also published as a package that can be used standalone. The standalone build should not be used alongside a pre-bundled build of a user-facing renderer, as they will have different internal storage for reactivity connections. A user-facing renderer should re-export all APIs from this package." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
