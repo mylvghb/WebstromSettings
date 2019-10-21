@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="only a whitelist of value types can be observed." />
       <item value="Make a map and return a function for checking if a key" />
       <item value="Make a map" />
       <item value="target is already a Proxy" />
@@ -32,7 +33,6 @@
       <item value="track" />
       <item value="preset" />
       <item value="immutability" />
-      <item value="only a whitelist of value types can be observed." />
       <item value="corresponding" />
       <item value="target is explicitly marked as readonly by user" />
       <item value="if trying to observe a readonly proxy, return the readonly version." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
