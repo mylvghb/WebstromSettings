@@ -14,6 +14,10 @@
           <option name="url" value="http://gitlab.qtransmall.com/qtm/qcat-view.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.qtransmall.com/qtm/view-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\projects\web" />
