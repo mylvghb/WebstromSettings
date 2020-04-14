@@ -1,0 +1,18 @@
+<templateSet group="Rust">
+  <template name="struct" value="#[dervice(Debug)]&#10;struct $NAME$ {&#10;    $FIELD$: $TYPE$,$END$&#10;}" description="struct declaration" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="" defaultValue="&quot;field&quot;" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="&quot;Type&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="RUST_MOD" value="true" />
+    </context>
+  </template>
+  <template name="pstruct" value="#[dervice(Debug)]&#10;pub struct $NAME$ {&#10;    $FIELD$: $TYPE$,$END$&#10;}" description="public struct declaration" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="" defaultValue="&quot;field&quot;" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="&quot;Type&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="RUST_MOD" value="true" />
+    </context>
+  </template>
+</templateSet>
