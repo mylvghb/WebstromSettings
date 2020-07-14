@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Control Flow/Add braces" />
+    <ignoreAction name="TypeScript/Infer parameter types from usages" />
+  </component>
+</application>
