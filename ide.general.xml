@@ -16,6 +16,5 @@
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="js.debugger.webconsole" value="false" />
-    <entry key="ide.images.show.chessboard" value="true" />
   </component>
 </application>
