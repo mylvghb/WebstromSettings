@@ -15,13 +15,11 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.4.0_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_libs.cdnjs.net_jquery_3.4.0_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcdn.net_ajax_libs_jquery_3.5.1_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.4.0_jquery.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_libs.cdnjs.net_jquery_3.4.0_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcdn.net_ajax_libs_jquery_3.5.1_jquery.js" />
       </CLASSES>
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
