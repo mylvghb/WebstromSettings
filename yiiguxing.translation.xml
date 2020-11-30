@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PATH REFS" />
+      <item value="NORMALIZING" />
+      <item value="FLUSHING" />
+      <item value="DIRTY PATHS" />
+      <item value="CHAMELEON" />
+      <item value="* Check if a character is a word character. The `remaining` argument is used * because sometimes you must read subsequent characters to truly determine it." />
+      <item value="Get the distance to the end of the first character in a string of text." />
       <item value="// Early returns are the heart of this function, where we decide if previous and current // codepoints should form a single character (in terms of how many of them should selection // jump over)." />
       <item value="Does `code` form Modifier with next one." />
       <item value="sequenceable character from basic multilingual plane" />
@@ -11,19 +18,14 @@
       <item value="surrogate pair" />
       <item value="ZERO WIDTH JOINER" />
       <item value="SURROGATE START" />
-      <item value="CHAMELEON" />
       <item value="PUNCTUATION" />
-      <item value="Get the distance to the end of the first character in a string of text." />
       <item value="Constants for string distance checking." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
