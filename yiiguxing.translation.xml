@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If the locale contains a territory and a dialect, this locale contains an implicit fallback." />
       <item value="Install i18n instance to make the whole app i18n-aware" />
       <item value="The structure of the locale message is the hierarchical object structure with each locale as the top property" />
       <item value="legacy" />
