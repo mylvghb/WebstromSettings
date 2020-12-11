@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legacy" />
       <item value="PATH REFS" />
       <item value="NORMALIZING" />
       <item value="FLUSHING" />
@@ -27,5 +28,8 @@
         <entry key="ENGLISH" value="27" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607657707935" />
   </component>
 </application>
