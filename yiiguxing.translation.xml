@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="469" />
+    <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).&#10;This can impact web performance" />
       <item value="If the locale contains a territory and a dialect, this locale contains an implicit fallback." />
       <item value="Install i18n instance to make the whole app i18n-aware" />
       <item value="The structure of the locale message is the hierarchical object structure with each locale as the top property" />
@@ -33,6 +37,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607657707935" />
+    <option name="lastTrimTime" value="1608173392351" />
   </component>
 </application>
