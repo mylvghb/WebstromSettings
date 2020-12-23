@@ -3,5 +3,6 @@
     <ignoreAction name="JavaScript/Control Flow/Add braces" />
     <ignoreAction name="TypeScript/Infer parameter types from usages" />
     <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="JavaScript/Introduce local variable" />
   </component>
 </application>
