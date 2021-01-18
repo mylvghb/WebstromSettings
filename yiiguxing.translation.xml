@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="istanbul" />
+      <item value="istanbul ignore next" />
+      <item value="Korean" />
       <item value="deduplicate" />
       <item value="pseudo" />
       <item value="interpolation" />
@@ -40,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
