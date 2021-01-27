@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Although the HTTP standard specifies &quot;unauthorized&quot;, semantically this response means &quot;unauthenticated&quot;. That is, the client must authenticate itself to get the requested response." />
+      <item value="The client does not have access rights to the content, i.e. they are unauthorized, so server is rejecting to give proper response. Unlike 401, the client's identity is known to the server." />
       <item value="istanbul" />
       <item value="istanbul ignore next" />
       <item value="Korean" />
@@ -43,12 +45,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610687982394" />
+    <option name="lastTrimTime" value="1611738958064" />
   </component>
 </application>
