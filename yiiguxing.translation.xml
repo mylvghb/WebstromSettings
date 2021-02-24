@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Tab List Underlay" />
+      <item value="Underlay" />
       <item value="examples more challenging. No idea how any of this works." />
       <item value="Disable SSR because it results in a double rendering which makes debugging" />
       <item value="Mentions" />
@@ -52,13 +54,11 @@
       <item value="Determines if `code` is a surrogate" />
       <item value="surrogate pair" />
       <item value="ZERO WIDTH JOINER" />
-      <item value="SURROGATE START" />
-      <item value="PUNCTUATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
@@ -66,5 +66,8 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1613975151610" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
