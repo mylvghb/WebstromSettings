@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="examples more challenging. No idea how any of this works." />
+      <item value="Disable SSR because it results in a double rendering which makes debugging" />
+      <item value="Mentions" />
+      <item value="Huge" />
       <item value="Check if an element is empty, accounting for void nodes." />
       <item value="Get the point before a location." />
       <item value="Get the point after a location." />
@@ -50,12 +54,12 @@
       <item value="ZERO WIDTH JOINER" />
       <item value="SURROGATE START" />
       <item value="PUNCTUATION" />
-      <item value="Constants for string distance checking." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
+        <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
