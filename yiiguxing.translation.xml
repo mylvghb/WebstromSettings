@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Shortcuts" />
       <item value="Tab List Underlay" />
       <item value="Underlay" />
       <item value="examples more challenging. No idea how any of this works." />
@@ -53,12 +54,11 @@
       <item value="technically also surrogate pair" />
       <item value="Determines if `code` is a surrogate" />
       <item value="surrogate pair" />
-      <item value="ZERO WIDTH JOINER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
