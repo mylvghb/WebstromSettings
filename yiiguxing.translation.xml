@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
@@ -66,8 +66,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1613975151610" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
