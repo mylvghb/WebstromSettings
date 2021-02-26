@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="edge" />
+      <item value="Get the ancestor above a location in the document." />
       <item value="Shortcuts" />
       <item value="Tab List Underlay" />
       <item value="Underlay" />
@@ -15,7 +17,6 @@
       <item value="Get the point before a location." />
       <item value="Get the point after a location." />
       <item value="Add a custom property to the leaf text nodes in the current selection." />
-      <item value="Get the ancestor above a location in the document." />
       <item value="Define CodeElement component" />
       <item value="Get the leaves for a text node given decorations." />
       <item value="Text" />
@@ -53,12 +54,11 @@
       <item value="zero width joiner" />
       <item value="technically also surrogate pair" />
       <item value="Determines if `code` is a surrogate" />
-      <item value="surrogate pair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
