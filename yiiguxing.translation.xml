@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="decorate" />
       <item value="edge" />
       <item value="Get the ancestor above a location in the document." />
       <item value="Shortcuts" />
@@ -53,12 +54,11 @@
       <item value="sequenceable" />
       <item value="zero width joiner" />
       <item value="technically also surrogate pair" />
-      <item value="Determines if `code` is a surrogate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
