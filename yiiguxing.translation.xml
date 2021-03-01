@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="ensure the offsets are equal first since they are cheaper to check." />
+      <item value="Check if a point is exactly equal to another." />
       <item value="Transform the path ref's current value by an operation." />
       <item value="Transform" />
       <item value="`PathRef` objects keep a specific path in a document synced over time as new operations are applied to the editor. You can access their `current` property at any time for the up-to-date path value." />
@@ -52,13 +54,11 @@
       <item value="Get the point after a location." />
       <item value="Add a custom property to the leaf text nodes in the current selection." />
       <item value="Define CodeElement component" />
-      <item value="Get the leaves for a text node given decorations." />
-      <item value="Text" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
