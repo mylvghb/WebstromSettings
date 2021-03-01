@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="is Ancestor" />
       <item value="Check if a value implements the `Span` interface." />
       <item value="Check if a value implements the `Location` interface." />
       <item value="Methods will often accept a `Location` instead of requiring only a `Path`, `Point` or `Range`. This eliminates the need for developers to manage converting between the different interfaces in their own code base." />
@@ -53,12 +54,11 @@
       <item value="edge" />
       <item value="Get the ancestor above a location in the document." />
       <item value="Shortcuts" />
-      <item value="Tab List Underlay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
