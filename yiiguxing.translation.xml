@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Check if a value implements the `Span` interface." />
+      <item value="Check if a value implements the `Location` interface." />
+      <item value="Methods will often accept a `Location` instead of requiring only a `Path`, `Point` or `Range`. This eliminates the need for developers to manage converting between the different interfaces in their own code base." />
+      <item value="Iterate through all of the point entries in a range." />
+      <item value="Check if a range is collapsed, meaning that both its anchor and focus points refer to the exact same position in the document." />
+      <item value="Get the intersection of a range with another." />
+      <item value="Check if a range includes a path, a point or part of another range." />
+      <item value="Check if a range is exactly equal to another." />
+      <item value="Get the end point of a range." />
+      <item value="affinity" />
       <item value="ensure the offsets are equal first since they are cheaper to check." />
       <item value="Check if a point is exactly equal to another." />
       <item value="Transform the path ref's current value by an operation." />
@@ -44,21 +54,11 @@
       <item value="Get the ancestor above a location in the document." />
       <item value="Shortcuts" />
       <item value="Tab List Underlay" />
-      <item value="Underlay" />
-      <item value="examples more challenging. No idea how any of this works." />
-      <item value="Disable SSR because it results in a double rendering which makes debugging" />
-      <item value="Mentions" />
-      <item value="Huge" />
-      <item value="Check if an element is empty, accounting for void nodes." />
-      <item value="Get the point before a location." />
-      <item value="Get the point after a location." />
-      <item value="Add a custom property to the leaf text nodes in the current selection." />
-      <item value="Define CodeElement component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
