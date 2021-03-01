@@ -4,6 +4,26 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Transform the path ref's current value by an operation." />
+      <item value="Transform" />
+      <item value="`PathRef` objects keep a specific path in a document synced over time as new operations are applied to the editor. You can access their `current` property at any time for the up-to-date path value." />
+      <item value="If the old and new path are the same, it's a no-op." />
+      <item value="Exit early if the operation is guaranteed not to have an effect." />
+      <item value="PERF" />
+      <item value="Transform a path by an operation." />
+      <item value="Get a path relative to an ancestor." />
+      <item value="Given a path, get the path to the previous sibling node." />
+      <item value="Given a path, return a new path referring to the parent node above it." />
+      <item value="Given a path, get the path to the next sibling node." />
+      <item value="heck if a path is a sibling of another." />
+      <item value="Check is a value implements the `Path` interface." />
+      <item value="Check if a path is the parent of another." />
+      <item value="Check if a path is a descendant of another." />
+      <item value="Check if a path is equal to or an ancestor of another." />
+      <item value="Check if a path is after another." />
+      <item value="Check if the path of previous sibling node exists" />
+      <item value="Check if a path ends after one of the indexes in another." />
+      <item value="Get the common ancestor path of two paths." />
       <item value="inverse" />
       <item value="Check if a value is a list of `Operation` objects." />
       <item value="Check of a value is a `NodeOperation` object." />
@@ -34,31 +54,11 @@
       <item value="Define CodeElement component" />
       <item value="Get the leaves for a text node given decorations." />
       <item value="Text" />
-      <item value="memoize" />
-      <item value="Although the HTTP standard specifies &quot;unauthorized&quot;, semantically this response means &quot;unauthenticated&quot;. That is, the client must authenticate itself to get the requested response." />
-      <item value="The client does not have access rights to the content, i.e. they are unauthorized, so server is rejecting to give proper response. Unlike 401, the client's identity is known to the server." />
-      <item value="istanbul" />
-      <item value="istanbul ignore next" />
-      <item value="Korean" />
-      <item value="deduplicate" />
-      <item value="pseudo" />
-      <item value="interpolation" />
-      <item value="end Of Line" />
-      <item value="trailing Comma" />
-      <item value="semi" />
-      <item value="unify" />
-      <item value="Extract" />
-      <item value="sticky" />
-      <item value="asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).&#10;This can impact web performance" />
-      <item value="If the locale contains a territory and a dialect, this locale contains an implicit fallback." />
-      <item value="Install i18n instance to make the whole app i18n-aware" />
-      <item value="The structure of the locale message is the hierarchical object structure with each locale as the top property" />
-      <item value="legacy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
