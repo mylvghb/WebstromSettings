@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="inverse" />
+      <item value="Check if a value is a list of `Operation` objects." />
+      <item value="Check of a value is a `NodeOperation` object." />
+      <item value="Check if an text matches set of properties." />
+      <item value="Check if some props are a partial of Text." />
+      <item value="Check if a value is a list of `Text` objects." />
+      <item value="loose" />
+      <item value="Check if a value implements the `Text` interface." />
+      <item value="Check if two text nodes are equal." />
+      <item value="along with any formatting properties" />
+      <item value="along with" />
+      <item value="`Text` objects represent the nodes that contain the actual text content of a Slate document along with any formatting properties. They are always leaf nodes in the document tree as they cannot contain any children." />
       <item value="Extendable Custom Types Interface" />
       <item value="decorate" />
       <item value="edge" />
@@ -42,29 +54,17 @@
       <item value="Install i18n instance to make the whole app i18n-aware" />
       <item value="The structure of the locale message is the hierarchical object structure with each locale as the top property" />
       <item value="legacy" />
-      <item value="PATH REFS" />
-      <item value="NORMALIZING" />
-      <item value="FLUSHING" />
-      <item value="DIRTY PATHS" />
-      <item value="CHAMELEON" />
-      <item value="* Check if a character is a word character. The `remaining` argument is used * because sometimes you must read subsequent characters to truly determine it." />
-      <item value="Get the distance to the end of the first character in a string of text." />
-      <item value="// Early returns are the heart of this function, where we decide if previous and current // codepoints should form a single character (in terms of how many of them should selection // jump over)." />
-      <item value="Does `code` form Modifier with next one." />
-      <item value="sequenceable character from basic multilingual plane" />
-      <item value="sequenceable" />
-      <item value="zero width joiner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613975151610" />
+    <option name="lastTrimTime" value="1614578584643" />
   </component>
 </application>
