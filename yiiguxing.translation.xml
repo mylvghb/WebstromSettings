@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Render text inside void nodes with a zero-width space. So the node can contain selection but the text is not visible." />
+      <item value="Returns the host window of a DOM node" />
+      <item value="COMPAT" />
       <item value="Trailing" />
       <item value="Leaf strings with text in them." />
       <item value="Leaf strings without text, render as zero-width strings." />
@@ -51,14 +54,11 @@
       <item value="Given a path, get the path to the previous sibling node." />
       <item value="Given a path, return a new path referring to the parent node above it." />
       <item value="Given a path, get the path to the next sibling node." />
-      <item value="heck if a path is a sibling of another." />
-      <item value="Check is a value implements the `Path` interface." />
-      <item value="Check if a path is the parent of another." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
