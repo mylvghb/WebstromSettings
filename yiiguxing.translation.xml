@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Get the ancestor above a location in the document." />
+      <item value="Overrideable core actions." />
+      <item value="Schema-specific node behaviors." />
+      <item value="Get the concatenated text string of a node's content." />
+      <item value="By default the order is top-down, from lowest to highest node in the tree, but you can pass the `reverse: true` option to go bottom-up." />
+      <item value="Return a generator of the in a branch of the tree, from a specific path." />
       <item value="Get the descendant node referred to by a specific path. If the path is an empty array, it refers to the root node itself." />
       <item value="Get the sliced fragment represented by a range inside a root node." />
       <item value="Get the node at a specific path, asserting that it's an ancestor node." />
@@ -48,17 +54,11 @@
       <item value="Check if a path ends after one of the indexes in another." />
       <item value="Get the common ancestor path of two paths." />
       <item value="inverse" />
-      <item value="Check if a value is a list of `Operation` objects." />
-      <item value="Check of a value is a `NodeOperation` object." />
-      <item value="Check if an text matches set of properties." />
-      <item value="Check if some props are a partial of Text." />
-      <item value="Check if a value is a list of `Text` objects." />
-      <item value="loose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
