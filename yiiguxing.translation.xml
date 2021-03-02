@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Trailing" />
+      <item value="Leaf strings with text in them." />
+      <item value="Leaf strings without text, render as zero-width strings." />
+      <item value="Leaf content strings." />
       <item value="COMPAT: This is required to prevent TypeScript aliases from doing some very weird things for Slate's types with the same name as globals. (20191127) https:github.commicrosoftTypeScriptissues35002" />
       <item value="Get the point after a location." />
       <item value="lowest" />
@@ -50,15 +54,11 @@
       <item value="heck if a path is a sibling of another." />
       <item value="Check is a value implements the `Path` interface." />
       <item value="Check if a path is the parent of another." />
-      <item value="Check if a path is a descendant of another." />
-      <item value="Check if a path is equal to or an ancestor of another." />
-      <item value="Check if a path is after another." />
-      <item value="Check if the path of previous sibling node exists" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
