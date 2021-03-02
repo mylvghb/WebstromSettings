@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Check if an element matches set of properties." />
+      <item value="Check if a set of props is a partial of Element." />
+      <item value="Check if a value is an array of `Element` objects." />
+      <item value="Check if a value implements the 'Ancestor' interface." />
+      <item value="Ancestor" />
       <item value="is Ancestor" />
       <item value="Check if a value implements the `Span` interface." />
       <item value="Check if a value implements the `Location` interface." />
@@ -49,16 +54,11 @@
       <item value="along with any formatting properties" />
       <item value="along with" />
       <item value="`Text` objects represent the nodes that contain the actual text content of a Slate document along with any formatting properties. They are always leaf nodes in the document tree as they cannot contain any children." />
-      <item value="Extendable Custom Types Interface" />
-      <item value="decorate" />
-      <item value="edge" />
-      <item value="Get the ancestor above a location in the document." />
-      <item value="Shortcuts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
