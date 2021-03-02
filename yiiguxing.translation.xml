@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Get the descendant node referred to by a specific path. If the path is an empty array, it refers to the root node itself." />
+      <item value="Get the sliced fragment represented by a range inside a root node." />
+      <item value="Get the node at a specific path, asserting that it's an ancestor node." />
+      <item value="Convenience type for returning the props of a node." />
+      <item value="Descendant" />
       <item value="Check if an element matches set of properties." />
       <item value="Check if a set of props is a partial of Element." />
       <item value="Check if a value is an array of `Element` objects." />
@@ -49,16 +54,11 @@
       <item value="Check if some props are a partial of Text." />
       <item value="Check if a value is a list of `Text` objects." />
       <item value="loose" />
-      <item value="Check if a value implements the `Text` interface." />
-      <item value="Check if two text nodes are equal." />
-      <item value="along with any formatting properties" />
-      <item value="along with" />
-      <item value="`Text` objects represent the nodes that contain the actual text content of a Slate document along with any formatting properties. They are always leaf nodes in the document tree as they cannot contain any children." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
