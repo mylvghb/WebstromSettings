@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="there is no way to create a reverse DOM Range using Range.setStartsetEnd" />
+      <item value="Notice: the returned range will always be ordinal regardless of the direction of Slate `range` due to DOM API limit." />
+      <item value="the returned range will always be ordinal regardless of the direction of Slate `range` due to DOM API limit." />
       <item value="Find the native DOM element from a Slate node." />
       <item value="Sets data from the currently selected fragment on a `DataTransfer`." />
       <item value="Insert data from a `DataTransfer` into the editor." />
@@ -51,14 +54,11 @@
       <item value="Check if a range is collapsed, meaning that both its anchor and focus points refer to the exact same position in the document." />
       <item value="Get the intersection of a range with another." />
       <item value="Check if a range includes a path, a point or part of another range." />
-      <item value="Check if a range is exactly equal to another." />
-      <item value="Get the end point of a range." />
-      <item value="affinity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
