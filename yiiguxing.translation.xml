@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Find the native DOM element from a Slate node." />
+      <item value="Sets data from the currently selected fragment on a `DataTransfer`." />
+      <item value="Insert data from a `DataTransfer` into the editor." />
+      <item value="n Firefox, reading `target.nodeType` will throw an error if target is originating from an internal &quot;restricted&quot; element (e.g. a stepper arrow on a number input). (20180504)" />
+      <item value="COMPAT" />
+      <item value="Check if a DOM node is within the editor." />
+      <item value="deselect" />
+      <item value="Blur the editor." />
+      <item value="Check if the editor is focused." />
       <item value="Find a key for a Slate node." />
       <item value="A React and DOM-specific version of the `Editor` interface." />
       <item value="A React and DOM-specific version of the `Editor` interface. React 和 DOM 特定版的" />
@@ -11,7 +20,6 @@
       <item value="Constants for string distance checking." />
       <item value="Render text inside void nodes with a zero-width space. So the node can contain selection but the text is not visible." />
       <item value="Returns the host window of a DOM node" />
-      <item value="COMPAT" />
       <item value="Trailing" />
       <item value="Leaf strings with text in them." />
       <item value="Leaf strings without text, render as zero-width strings." />
@@ -46,19 +54,11 @@
       <item value="Check if a range is exactly equal to another." />
       <item value="Get the end point of a range." />
       <item value="affinity" />
-      <item value="ensure the offsets are equal first since they are cheaper to check." />
-      <item value="Check if a point is exactly equal to another." />
-      <item value="Transform the path ref's current value by an operation." />
-      <item value="Transform" />
-      <item value="`PathRef` objects keep a specific path in a document synced over time as new operations are applied to the editor. You can access their `current` property at any time for the up-to-date path value." />
-      <item value="If the old and new path are the same, it's a no-op." />
-      <item value="Exit early if the operation is guaranteed not to have an effect." />
-      <item value="PERF" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
