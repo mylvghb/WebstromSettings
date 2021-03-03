@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Render text inside void nodes with a zero-width space. So the node can contain selection but the text is not visible." />
       <item value="Add the content to a &lt;div&gt; so that we can get its inner HTML" />
       <item value="Make sure attach is non-empty, since empty nodes will not get copied." />
       <item value="attach" />
@@ -28,7 +29,6 @@
       <item value="A React and DOM-specific version of the `Editor` interface. React 和 DOM 特定版的" />
       <item value="`withReact` adds React and DOM specific behaviors to the editor." />
       <item value="Constants for string distance checking." />
-      <item value="Render text inside void nodes with a zero-width space. So the node can contain selection but the text is not visible." />
       <item value="Returns the host window of a DOM node" />
       <item value="Trailing" />
       <item value="Leaf strings with text in them." />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
