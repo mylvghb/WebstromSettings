@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="The Grammarly Chrome extension works by changing the DOM out from under `contenteditable` elements, which leads to weird behaviors so we have to disable it like editor. (20170424)" />
       <item value="The `beforeinput` event isn't recognized." />
       <item value="recognized" />
       <item value="Yank" />
@@ -53,12 +54,11 @@
       <item value="Find the native DOM element from a Slate node." />
       <item value="Sets data from the currently selected fragment on a `DataTransfer`." />
       <item value="Insert data from a `DataTransfer` into the editor." />
-      <item value="n Firefox, reading `target.nodeType` will throw an error if target is originating from an internal &quot;restricted&quot; element (e.g. a stepper arrow on a number input). (20180504)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
