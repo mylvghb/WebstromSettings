@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="A wrapper around the provider to handle `onChange` events, because the editor is a mutable singleton so it won't ever register as &quot;changed&quot; otherwise." />
+      <item value="Get the current `selected` state of an element." />
+      <item value="A React context for sharing the `readOnly` state of the editor." />
+      <item value="A React context for sharing the `focused` state of the editor." />
+      <item value="Use useSlateStatic instead." />
+      <item value="A React context for sharing the editor object, in a way that re-renders the context whenever changes occur." />
+      <item value="The \`useSlate\` hook must be used inside the &lt;SlateProvider&gt; component's context." />
+      <item value="Get the current editor object from the React context." />
+      <item value="A React context for sharing the editor object." />
       <item value="A default memoized decorate function." />
       <item value="memoized" />
       <item value="Prevent warning on SSR by falling back to useEffect when window is not defined" />
@@ -45,20 +54,11 @@
       <item value="Trailing" />
       <item value="Leaf strings with text in them." />
       <item value="Leaf strings without text, render as zero-width strings." />
-      <item value="Leaf content strings." />
-      <item value="COMPAT: This is required to prevent TypeScript aliases from doing some very weird things for Slate's types with the same name as globals. (20191127) https:github.commicrosoftTypeScriptissues35002" />
-      <item value="Get the point after a location." />
-      <item value="lowest" />
-      <item value="Get the ancestor above a location in the document." />
-      <item value="Overrideable core actions." />
-      <item value="Schema-specific node behaviors." />
-      <item value="Get the concatenated text string of a node's content." />
-      <item value="By default the order is top-down, from lowest to highest node in the tree, but you can pass the `reverse: true` option to go bottom-up." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
