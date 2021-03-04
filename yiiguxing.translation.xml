@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="doesn't do anything on a div, so it needs to be manually focused." />
+      <item value="Otherwise the DOM selection is out of sync, so update it." />
+      <item value="If the DOM selection is in the editor and the editor selection is already correct, we're done." />
+      <item value="verify that the dom selection is in the editor" />
+      <item value="If the DOM selection is properly unset, we're done." />
+      <item value="Whenever the editor updates, make sure the DOM selection state is in sync." />
+      <item value="Update element-related weak maps with the DOM element ref." />
+      <item value="Keep track of some state for the event handler logic." />
+      <item value="Update internal state on each render." />
       <item value="A wrapper around the provider to handle `onChange` events, because the editor is a mutable singleton so it won't ever register as &quot;changed&quot; otherwise." />
       <item value="Get the current `selected` state of an element." />
       <item value="A React context for sharing the `readOnly` state of the editor." />
@@ -20,7 +29,6 @@
       <item value="Check if a list of ranges is equal to another." />
       <item value="decorate" />
       <item value="The default element renderer." />
-      <item value="Update element-related weak maps with the DOM element ref." />
       <item value="decorations" />
       <item value="Memoized" />
       <item value="Individual leaves in a text node with unique formatting." />
@@ -46,19 +54,11 @@
       <item value="Blur the editor." />
       <item value="Check if the editor is focused." />
       <item value="Find a key for a Slate node." />
-      <item value="A React and DOM-specific version of the `Editor` interface." />
-      <item value="A React and DOM-specific version of the `Editor` interface. React 和 DOM 特定版的" />
-      <item value="`withReact` adds React and DOM specific behaviors to the editor." />
-      <item value="Constants for string distance checking." />
-      <item value="Returns the host window of a DOM node" />
-      <item value="Trailing" />
-      <item value="Leaf strings with text in them." />
-      <item value="Leaf strings without text, render as zero-width strings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
