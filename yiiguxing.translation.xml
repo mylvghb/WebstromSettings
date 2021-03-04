@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="The `beforeinput` event isn't recognized." />
+      <item value="recognized" />
+      <item value="Yank" />
       <item value="Check if an event is overrided by a handler." />
       <item value="Check if the target is inside void and in the editor." />
       <item value="Check if the target is editable and in the editor." />
@@ -51,14 +54,11 @@
       <item value="Sets data from the currently selected fragment on a `DataTransfer`." />
       <item value="Insert data from a `DataTransfer` into the editor." />
       <item value="n Firefox, reading `target.nodeType` will throw an error if target is originating from an internal &quot;restricted&quot; element (e.g. a stepper arrow on a number input). (20180504)" />
-      <item value="COMPAT" />
-      <item value="Check if a DOM node is within the editor." />
-      <item value="deselect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
