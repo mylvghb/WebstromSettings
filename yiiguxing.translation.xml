@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Check if a list of ranges is equal to another." />
+      <item value="decorate" />
+      <item value="The default element renderer." />
+      <item value="Update element-related weak maps with the DOM element ref." />
+      <item value="decorations" />
       <item value="Memoized" />
       <item value="Individual leaves in a text node with unique formatting." />
       <item value="Individual" />
@@ -49,16 +54,11 @@
       <item value="Get the descendant node referred to by a specific path. If the path is an empty array, it refers to the root node itself." />
       <item value="Get the sliced fragment represented by a range inside a root node." />
       <item value="Get the node at a specific path, asserting that it's an ancestor node." />
-      <item value="Convenience type for returning the props of a node." />
-      <item value="Descendant" />
-      <item value="Check if an element matches set of properties." />
-      <item value="Check if a set of props is a partial of Element." />
-      <item value="Check if a value is an array of `Element` objects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
