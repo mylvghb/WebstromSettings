@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Memoized" />
       <item value="Individual leaves in a text node with unique formatting." />
       <item value="Individual" />
       <item value="Render text inside void nodes with a zero-width space. So the node can contain selection but the text is not visible." />
@@ -53,12 +54,11 @@
       <item value="Check if an element matches set of properties." />
       <item value="Check if a set of props is a partial of Element." />
       <item value="Check if a value is an array of `Element` objects." />
-      <item value="Check if a value implements the 'Ancestor' interface." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
