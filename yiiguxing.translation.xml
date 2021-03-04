@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Check if an event is overrided by a handler." />
+      <item value="Check if the target is inside void and in the editor." />
+      <item value="Check if the target is editable and in the editor." />
       <item value="doesn't do anything on a div, so it needs to be manually focused." />
       <item value="Otherwise the DOM selection is out of sync, so update it." />
       <item value="If the DOM selection is in the editor and the editor selection is already correct, we're done." />
@@ -51,14 +54,11 @@
       <item value="COMPAT" />
       <item value="Check if a DOM node is within the editor." />
       <item value="deselect" />
-      <item value="Blur the editor." />
-      <item value="Check if the editor is focused." />
-      <item value="Find a key for a Slate node." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
