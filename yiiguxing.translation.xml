@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="SHORTCUTS" />
       <item value="Universal defers to ensure that the match occurs in every branch, so we" />
       <item value="universal" />
       <item value="Prevent the default outline styles." />
@@ -53,12 +54,11 @@
       <item value="Get the target range from a DOM `event`." />
       <item value="there is no way to create a reverse DOM Range using Range.setStartsetEnd" />
       <item value="Notice: the returned range will always be ordinal regardless of the direction of Slate `range` due to DOM API limit." />
-      <item value="the returned range will always be ordinal regardless of the direction of Slate `range` due to DOM API limit." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
