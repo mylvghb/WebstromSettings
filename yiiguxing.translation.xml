@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Print trailing commas wherever possible when multi-line." />
+      <item value="Print semicolons." />
       <item value="Add a custom property to the leaf text nodes in the current selection." />
       <item value="Huge" />
       <item value="descendant" />
@@ -52,19 +54,17 @@
       <item value="Make sure attach is non-empty, since empty nodes will not get copied." />
       <item value="attach" />
       <item value="Create a fake selection so that we can add a Base64-encoded copy of the" />
-      <item value="Resolve a Slate range from the DOM range." />
-      <item value="Else resolve a range from the caret position where the drop occured." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614578584643" />
+    <option name="lastTrimTime" value="1616120308473" />
   </component>
 </application>
