@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="mutations" />
       <item value="Print trailing commas wherever possible when multi-line." />
       <item value="Print semicolons." />
       <item value="Add a custom property to the leaf text nodes in the current selection." />
@@ -53,12 +54,11 @@
       <item value="Add the content to a &lt;div&gt; so that we can get its inner HTML" />
       <item value="Make sure attach is non-empty, since empty nodes will not get copied." />
       <item value="attach" />
-      <item value="Create a fake selection so that we can add a Base64-encoded copy of the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
