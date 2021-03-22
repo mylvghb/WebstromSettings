@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="dashboard" />
       <item value="hack router push callback" />
       <item value="mutations" />
       <item value="Print trailing commas wherever possible when multi-line." />
@@ -53,12 +54,11 @@
       <item value="Individual" />
       <item value="Render text inside void nodes with a zero-width space. So the node can contain selection but the text is not visible." />
       <item value="Add the content to a &lt;div&gt; so that we can get its inner HTML" />
-      <item value="Make sure attach is non-empty, since empty nodes will not get copied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="1" />
       </map>
