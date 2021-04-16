@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="469" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="Base Scaffolding Variables" />
       <item value="Scale" />
       <item value="set the replace: true so the navigation will not leave a history record" />
       <item value="Set" />
@@ -53,7 +54,6 @@
       <item value="If it's a void node, wrap the children in extra void-specific elements." />
       <item value="Check if a list of ranges is equal to another." />
       <item value="decorate" />
-      <item value="The default element renderer." />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616575569026" />
+    <option name="lastTrimTime" value="1618539350126" />
   </component>
 </application>
